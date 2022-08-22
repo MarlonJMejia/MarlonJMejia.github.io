@@ -204,22 +204,22 @@ disable404 = true
 
         [[params.projects.list]]
         title = "Python REST API"
-        # url = "https://eng.juniper.net/site/global/build/support_automation/service_api/case_api/index.gsp"
+        url = ""
         tagline = """Collaborated with hardware vendors to create workflows, modules and scripts to create, gather and upload logs for our network devices with [**Juniper API**](https://eng.juniper.net/site/global/build/support_automation/service_api/case_api/index.gsp") and [**Cisco ServiceGrid API**](https://www.cisco.com/c/dam/en_us/partners/downloads/partner/WWChannels/download/atp/cisco-servicegrid-customer-ebc.pdf)"""
 
         [[params.projects.list]]
-        title = "Docker"
-        # url = "https://github.com/aerohub/hugo-faq-theme"
-        tagline = """Deployed with **Ansible** for containers such as ***OpenVPN, Wireguard, DokuWiki, Adguard, ZNC, LetsEncrypt, MySQL, Wordpress, AdGuardHome***"""
+        title = "Terraform & Ansible Automation"
+        url = ""
+        tagline = "Used **Terraform** to deploy a VM Instance in Oracle Cloud to be made into my VPN. **Ansible** was used to configure the server to install and run a docker container with Wireguard."
 
         [[params.projects.list]]
-        title = "Hashicorp Packer"
-        # url = "https://github.com/aerohub/hugo-identity-theme"
-        tagline = "Creation of EC2 Golden Images to be used with Terraform."
+        title = "Docker"
+        url = ""
+        tagline = """Deployed with **Ansible** for containers such as ***OpenVPN, Wireguard, DokuWiki, Adguard, ZNC, LetsEncrypt, MySQL, Wordpress, AdGuardHome*** within my homelab."""
 
         [[params.projects.list]]
         title = "Site-2-Site VPN"
-        url = "https://github.com/aerohub/hugo-orbit-theme"
+        url = ""
         tagline = "AWS and PfSense Site 2 Site IPsec Tunnel to connect my cloud network to a segmented network of my homelab."
 
     # Skills section
@@ -234,11 +234,11 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "CI/CD & Git"
-        level = "85%" 
+        level = "90%" 
 
 	[[params.skills.list]]
-        skill = "Ansible & SaltStack"
-        level = "80%"
+        skill = "Ansible, Terraform & SaltStack"
+        level = "70%"
 
         [[params.skills.list]]
         skill = "HTML5 & CSS"
