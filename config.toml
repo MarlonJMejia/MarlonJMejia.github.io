@@ -112,12 +112,20 @@ disable404 = true
 
         [[params.certifications.list]]
         certification = "RHCSA"
+	url = "https://rhtapps.redhat.com/verify?certId=220-057-368"
 
         [[params.certifications.list]]
         certification = "Comptia A+"
+	url = "https://www.credly.com/badges/89fca521-f3de-4c36-90f5-7552f9c4c26e"
 
         [[params.certifications.list]]
         certification = "Comptia Security+"
+	url = "https://www.credly.com/badges/136d58c4-24d3-4487-aad5-c51e120a3e7f"
+
+        [[params.certifications.list]]
+        certification = "AWS SAA-C03"
+	url = "https://www.credly.com/badges/838a30cd-0701-4069-b4be-68fe22d6962a"
+
 
     # Languages section
     [params.language]
@@ -210,7 +218,8 @@ disable404 = true
         [[params.projects.list]]
         title = "Terraform & Ansible Automation"
         url = ""
-        tagline = "Used **Terraform** to deploy a VM Instance in Oracle Cloud to be made into my VPN. **Ansible** was used to configure the server to install and run a docker container with Wireguard."
+        tagline = """Used **Terraform** to deploy a VM Instance in Oracle Cloud to be made into my VPN. 
+        \n **Ansible** was used to configure the server to install and run a docker container with Wireguard."""
 
         [[params.projects.list]]
         title = "Docker"
