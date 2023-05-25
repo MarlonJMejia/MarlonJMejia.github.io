@@ -1,0 +1,19 @@
+- company: Bloomberg LP
+  roles:
+    - role: Datacenter Operations Engineer
+      details:  "- Troubleshooting more than 10,000 application systems for ***Windows, Linux. AIX and Solaris***.
+        \n- Troubleshooting more than 10,000 network devices including ***Arista, Juniper, ArcOS, Nvidia, Cisco, Brocade***.
+        \n- **Collaborated** with hardware vendors to create automation of case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**.
+        \n- Contributed in updating legacy and outdated **documentation and scripts** via **Github** using **Python** and **Bash**
+        \n- Monitor Operating System and Network Hardware for any network disruptions, resource utilization or power utilization across our datacenters via ***Grafana, Splunk and Humio.***"
+      date: "2020 -  Present"
+
+- company: NYI
+  roles: 
+    - role: Datacenter Technician
+      details: "- Provide remote hands and technical support to customer, maintained and upgrade customer hardware, mount and rack equipment.
+        \n- Monitor over 1000+ of onsite equipment, quickly adining to any incidents or outages on our environment.
+        \n- Automation of Google Drive copy, editing and uploading with ***Python*** for spreadsheets, docs and files."
+
+      date: "2020 - 2020"
+    

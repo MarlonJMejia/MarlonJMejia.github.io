@@ -1,0 +1,16 @@
+projects:
+- title: "CI/CD Project for AWS and Github Pages"
+  link: "https://marlonmejia.info/"
+  details: "- Used S3 Buckets to store files for a static website, that is now Proxied with CloudDistribution for faster delivery, Used Route 53 to correctly route my domains and mail servers.  Cert Manager to create a certificate for security.
+
+  -  Used CodePipeline or Github Actions to automate the deployment of my website with HUGO to test and deploy my website via a pipeline."
+- title: "Terraform & Ansible"
+  #subtitle: "mertbakir.gitlab.io/resume"
+  #link: "https://gitlab.com/mertbakir/resume-a4"
+  #date: "2020"
+  details: |
+    Terraform to provision and deploy a EC2 instance in AWS. Ansible was used to configurethe EC2 Instance into a wireguard VPN.
+  #links:
+  #- title: Available in GitLab
+   # url: https://gitlab.com/mertbakir/resume-a4
+    #icon: fab fa-gitlab

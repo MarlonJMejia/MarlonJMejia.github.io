@@ -1,0 +1,11 @@
+- name: "RHCSA"
+  link: "https://rhtapps.redhat.com/verify?certId=220-057-368"
+
+- name: "AWS SAA-C03"
+  link: "https://www.credly.com/badges/838a30cd-0701-4069-b4be-68fe22d6962a"
+
+- name: "Comptia Security+"
+  link: "https://www.credly.com/badges/136d58c4-24d3-4487-aad5-c51e120a3e7f"
+
+- name: "Comptia A+"
+  link: "https://www.credly.com/badges/89fca521-f3de-4c36-90f5-7552f9c4c26e"
