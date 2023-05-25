@@ -1,0 +1,5 @@
+{{ range .Data.certifications }}
+<div class="item">
+	{{ if .name }}<li><a href="{{ .link }}"> {{ .name }} </a></li>{{ end }}
+</div>
+{{ end }}
