@@ -24,6 +24,12 @@ skills:
       - Grafana - Humio
       - InfluxDB - Prometheus
 
+  - groupName: CI/CD & IaCm
+    list:
+      - AWS CodePipeline - Github Actions
+      - Jenkins - AWS CloudFormation
+      - Terraform - Ansible
+
   - groupName: Scripting & Markup
     list:
       - Python - Bash - Powershell
