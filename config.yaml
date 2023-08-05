@@ -51,7 +51,7 @@ params:
 #    - custom.scss
 #   - print_urls.scss
   header:
-    avatar: avatar.png
+    avatar: false
     contact: true
     tagline: true
     links: false
@@ -70,7 +70,7 @@ params:
    #     - feature: about
    #       title: About Me
         - feature: experience
-    #- features:
+    - features:
         - feature: projects
           collection: projects
        # - feature: publications

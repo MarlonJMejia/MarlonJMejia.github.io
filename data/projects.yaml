@@ -1,15 +1,27 @@
 projects:
 - title: "CI/CD Project for AWS and Github Pages"
   link: "https://marlonmejia.info/"
-  details: "- Used S3 Buckets to store files for a static website, that is now Proxied with CloudDistribution for faster delivery, Used Route 53 to correctly route my domains and mail servers.  Cert Manager to create a certificate for security.
+  details: "- **S3** to store and manage object files for a static website, **CloudFront** for faster distribution of the content, Used **Route 53** to correctly route my domains and mail servers. **Cert Manager** to create a certificate for security.
+  \n-  **CodePipeline** and **Github Actions** to automate the deployment and testing of the website."
 
-  -  Used CodePipeline or Github Actions to automate the deployment of my website with HUGO to test and deploy my website via a pipeline."
-- title: "Terraform & Ansible"
+- title: "Wireguard VPN"
   #subtitle: "mertbakir.gitlab.io/resume"
   #link: "https://gitlab.com/mertbakir/resume-a4"
   #date: "2020"
   details: |
-    Terraform to provision and deploy a EC2 instance in AWS. Ansible was used to configurethe EC2 Instance into a wireguard VPN.
+    - Utilized **Packer** to create a golden image for a Wireguard VPN, **Terraform** to provision and manage various AWS services such as **EC2, CloudFront, VPC, Security Groups and Route53**.
+    - Leveraged **Ansible** to automatically configure the installation of Wireguard VPN on the provisioned infrastructure.
+  #links:
+  #- title: Available in GitLab
+   # url: https://gitlab.com/mertbakir/resume-a4
+    #icon: fab fa-gitlab
+
+- title: "Docker / ECS"
+  #subtitle: "mertbakir.gitlab.io/resume"
+  #link: "https://gitlab.com/mertbakir/resume-a4"
+  #date: "2020"
+  details: |
+    - Used **AWS ECS** to deploy Docker containers on **AWS Fargate** with enabled logging for metrics and alarming to reduce Mean Time to Resolution (MTTR)
   #links:
   #- title: Available in GitLab
    # url: https://gitlab.com/mertbakir/resume-a4
