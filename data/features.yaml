@@ -28,6 +28,7 @@ skills:
     list:
       - AWS CodePipeline - Github Actions
       - Jenkins
+
   - groupName: IaC
     list:
       - AWS CloudFormation
@@ -37,6 +38,15 @@ skills:
     list:
       - Python - Bash - Powershell
       - YAML - JSON - Markdown
+
+  - groupName: Physical Hardware
+    list:
+      - Switches - Servers - Arrays 
+      - Cisco - Arista - Dell - HPe
+  
+  - groupName: Cabling
+    list:
+      - RJ45 - Fiber - RJ-11
 
   - groupName: Systems
     list:

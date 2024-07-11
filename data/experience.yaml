@@ -8,6 +8,10 @@
         \n- Created and built Dockerfiles to containerize applications and run deployment tests.
         \n- Utilized Jira to plan, track, support tickets and incidents, ensuring efficient incident management and resolution.
         \n- Collaborated across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination
+        \n- Conduct regular audits of data center operations to identify areas for improvement and implement changes to optimize performance and reduce costs.
+        \n- Updated documentation related to equipment inventory, network configurations, and standard operating procedures
+        \n- Perform routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
+        \n- Troubleshoot connections and network transceivers, physical replacement of any faulty server, array or network equipment.
         \n- Monitor Operating System and Network Hardware for any network disruptions, resource utilization or power utilization across our datacenters via ***Grafana, Splunk and Humio.***"
       date: "Nov 2020 - Present"
 
