@@ -38,13 +38,10 @@ jobs:
       run: ls & pwd
 
     - name: Upload artifacts
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: github-pages
-        path: |
-          resume*
-          index.html
-          styling.css
+        path: .
 
   deploy:
     environment:
