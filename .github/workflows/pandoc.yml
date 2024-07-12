@@ -32,15 +32,15 @@ jobs:
 
     - uses: docker://pandoc/latex:2.9
       with:
-        args: -s --css=styling.css -V lang=en -V highlighting-css= --mathjax -f markdown+smart resume.md -o resume.pdf
+        args: -s --metadata pagetitle="Marlon Mejia Resume"  --css=styling.css -V lang=en -V highlighting-css= --mathjax -f markdown+smart resume.md -o resume.pdf
 
     - uses: docker://pandoc/latex:2.9
       with:
-        args: -s --css=styling.css -V lang=en -V highlighting-css= --mathjax -f markdown+smart resume.md -o resume.docx
+        args: -s --metadata pagetitle="Marlon Mejia Resume"  --css=styling.css -V lang=en -V highlighting-css= --mathjax -f markdown+smart resume.md -o resume.docx
 
     - uses: docker://pandoc/latex:2.9
       with:
-        args: -s --css=styling.css -V lang=en -V highlighting-css= --mathjax -f markdown+smart resume.md -o index.html
+        args: -s --metadata pagetitle="Marlon Mejia Resume"  --css=styling.css -V lang=en -V highlighting-css= --mathjax -f markdown+smart resume.md -o index.html
 
     - name: List directory and files
       run: ls & pwd
