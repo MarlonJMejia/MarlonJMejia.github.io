@@ -13,14 +13,20 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Convert Markdown to PDF, DOCX, and HTML
+    - name: Convert Markdown to PDF
       uses: docker://pandoc/core:2.16
       with:
-        args: >
-          resume.md
-          -o resume.pdf
-          && pandoc resume.md -o resume.docx
-          && pandoc resume.md -o index.html
+        args: resume.md -o resume.pdf
+
+    - name: Convert Markdown to DOCX
+      uses: docker://pandoc/core:2.16
+      with:
+        args: resume.md -o resume.docx
+
+    - name: Convert Markdown to HTML
+      uses: docker://pandoc/core:2.16
+      with:
+        args: resume.md -o index.html
 
     - name: Upload artifacts
       uses: actions/upload-artifact@v3
