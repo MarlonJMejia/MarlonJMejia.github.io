@@ -28,8 +28,7 @@ jobs:
     - name: create file list
       id: files_list
       run: |
-        readme.md
-        styling.css
+        echo "files=$(ls)" > $GITHUB_OUTPUT
 
     - uses: docker://pandoc/latex:2.9
       with:
