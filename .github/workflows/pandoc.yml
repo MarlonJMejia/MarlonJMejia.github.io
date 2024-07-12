@@ -35,7 +35,6 @@ jobs:
       with:
         name: github-pages
         path: '.'
-
   deploy:
     runs-on: ubuntu-latest
     needs: build
