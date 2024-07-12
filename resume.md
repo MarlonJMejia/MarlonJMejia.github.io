@@ -1,18 +1,21 @@
 <header>
-::: title
+:::: title
+
 # Marlon Mejia
+::::
+::: download
+**Download in** [PDF](resume.pdf) || [DOCX](resume.docx)
 :::
-
-::: contact
-***PHONE:** [1-631-480-7675](tel:1-631-480-7675)<br>
-**E-MAIL:** <a href="mailto:marlon.junior.mejia@gmail.com">marlon.junior.mejia@gmail.com</a><br>
-**LINKEDIN:** [marlon-mejia](https://www.linkedin.com/in/marlon-mejia/)<br>
-**GITHUB:** [marlon-mejia](https://github.com/MarlonJMejia)*
-:::
-
 </header>
-<main>
+::: contact
 
+**Phone:** [1-631-480-7675](tel:1-631-480-7675)<br>
+**E-Mail:** <a href="mailto:marlon.junior.mejia@gmail.com">marlon.junior.mejia@gmail.com</a><br>
+**LinkedIn:** [marlon-mejia](https://www.linkedin.com/in/marlon-mejia/)<br>
+**Github:** [marlon-mejia](https://github.com/MarlonJMejia)
+:::
+
+<main>
 > # Bloomberg LP 
 >**Datacenter Operations Engineer**  
 *Nov 2020 - Present*

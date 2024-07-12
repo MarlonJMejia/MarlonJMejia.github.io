@@ -504,8 +504,9 @@ figcaption {
   border-bottom:none
 }
 .contact {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 0.9em;
+  word-spacing: 10px;
 }
 .title {
   text-transform: uppercase;
@@ -515,5 +516,11 @@ aside {
   display: flex;
   flex-direction: row;
   justify-content: left;
+  margin: auto;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
   margin: auto;
 }
