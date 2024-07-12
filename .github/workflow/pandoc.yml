@@ -1,0 +1,51 @@
+name: Convert resume
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Convert Markdown to PDF, DOCX, and HTML
+      uses: docker://pandoc/core:2.16
+      with:
+        args: >
+          resume.md
+          -o resume.pdf
+          && pandoc resume.md -o resume.docx
+          && pandoc resume.md -o index.html
+
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: resume-files
+        path: |
+          resume.pdf
+          resume.docx
+          index.html
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Download artifacts
+      uses: actions/download-artifact@v3
+      with:
+        name: resume-files
+        path: ./output
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./output
