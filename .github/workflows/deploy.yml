@@ -11,8 +11,6 @@ permissions:
   id-token: write
   pages: write
 
-
-
 jobs:
   # Single deploy job since we're just deploying
   deploy:
