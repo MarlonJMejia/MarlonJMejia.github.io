@@ -4,6 +4,7 @@
 # Marlon Mejia
 ::::
 ::: download
+
 **Download in** [PDF](resume.pdf) || [DOCX](resume.docx)
 :::
 </header>
@@ -24,7 +25,7 @@
 - Troubleshooting more than 10,000 network devices including **Arista**, **Juniper**, **ArcOS**, **Nvidia**, **Cisco**, **Brocade**.
 - Collaborated with hardware vendors to create automation of case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**.
 - Updated legacy programs, scripts, applications, and outdated documentation on our Github using **Python**, **Bash**, and General Markup languages.
-- Created and built Dockerfiles to containerize applications and run deployment tests.
+- Created and built **Dockerfiles** to containerize applications and run deployment tests.
 - Utilized **Jira** to plan, track, support tickets, and incidents, ensuring efficient incident management and resolution.
 - Monitor Operating System and Network Hardware for any network disruptions, resource utilization, or power utilization across our datacenters via **Grafana**, **Splunk**, and **Humio**.
 - Collaborated across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination.
