@@ -525,3 +525,10 @@ header {
   justify-content: space-between;
   margin: auto;
 }
+.Skills{
+  font-style: none;
+  text-align: left;
+  p {
+    font-style: normal;
+  }
+}
