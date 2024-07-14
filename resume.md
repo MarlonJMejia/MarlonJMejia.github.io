@@ -17,6 +17,7 @@
 :::
 
 <main>
+
 ># Bloomberg LP 
 >**Datacenter Operations Engineer**  
 *Nov 2020 - Present*
