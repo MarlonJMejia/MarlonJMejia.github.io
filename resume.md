@@ -34,7 +34,7 @@
 - Perform routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
 - Troubleshoot connections and network transceivers, physical replacement of any faulty server, array, or network equipment.
 
-># NYI - New York 
+># NYI - New York Internet
 >**Datacenter Technician**  
 *Jul 2020 - Nov 2020*
 
