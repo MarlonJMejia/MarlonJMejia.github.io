@@ -19,6 +19,7 @@
 <main>
 
 ># Bloomberg LP 
+
 >**Datacenter Operations Engineer**  
 *Nov 2020 - Present*
 
@@ -36,6 +37,7 @@
 - Troubleshoot connections and network transceivers, physical replacement of any faulty server, array, or network equipment.
 
 ># NYI - New York Internet
+
 >**Datacenter Technician**  
 *Jul 2020 - Nov 2020*
 
@@ -71,6 +73,7 @@ Proxmox, LXC, Docker
 ::: certifications
 
 # Certifications
+
 - [RHCSA](https://rhtapps.redhat.com/verify?certId=220-057-368) - Apr 08, 2022
 - [EX200 Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=220-057-368) - Apr 08, 2022
 - [AWS SAA-C03](https://www.credly.com/badges/838a30cd-0701-4069-b4be-68fe22d6962a) - March 31, 2023
@@ -95,5 +98,6 @@ Proxmox, LXC, Docker
 - Leverage the provisioned infrastructure created with Terraform by configruing it as a reverse proxy for my local hosted resources.
 
 ### Resume
+
 - Create in Markdown for ease of editing, used `pandoc` to convert from Markdown to multiple different formats.
 - Created a CI/CD to trigger on github commit to published my website in multiple formats with `pandoc`
