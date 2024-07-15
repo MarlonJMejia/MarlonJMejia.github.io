@@ -15,11 +15,10 @@
 **LinkedIn:** [marlon-mejia](https://www.linkedin.com/in/marlon-mejia/)<br>
 **Github:** [marlon-mejia](https://github.com/MarlonJMejia)
 :::
-
+****
 <main>
 
 ># Bloomberg LP 
-
 >**Datacenter Operations Engineer**  
 *Nov 2020 - Present*
 
@@ -37,7 +36,6 @@
 - Troubleshoot connections and network transceivers, physical replacement of any faulty server, array, or network equipment.
 
 ># NYI - New York Internet
-
 >**Datacenter Technician**  
 *Jul 2020 - Nov 2020*
 
