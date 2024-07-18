@@ -22,8 +22,7 @@
 >**Datacenter Operations Engineer**  
 *Nov 2020 - Present*
 
-- Troubleshooting more than 10,000 application systems for **Windows**, **Linux**, **AIX**, and **Solaris**.
-- Troubleshooting more than 10,000 network devices including **Arista**, **Juniper**, **ArcOS**, **Nvidia**, **Cisco**, **Brocade**.
+- Troubleshot Layer 1 & 2 network issues on Server, Switches, Routers, Storage Arrays & Firewalls.
 - Collaborated with hardware vendors to create automation of case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**.
 - Updated legacy programs, scripts, applications, and outdated documentation on our Github using **Python**, **Bash**, and General Markup languages.
 - Created and built **Dockerfiles** to containerize applications and run deployment tests.
@@ -33,7 +32,7 @@
 - Conduct regular audits of data center operations to identify areas for improvement and implement changes to optimize performance and reduce costs.
 - Updated documentation related to equipment inventory, network configurations, and standard operating procedures.
 - Perform routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
-- Troubleshoot connections and network transceivers, physical replacement of any faulty server, array, or network equipment.
+- Troubleshoot multitude of operating systems such as Windows, Linux ( Red Hat, Debian)
 
 ># NYI - New York Internet
 >**Datacenter Technician**  
