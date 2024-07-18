@@ -78,15 +78,11 @@ AWS CodePipeline, Github Actions, Jenkins, Docker
 ### [CI/CD Project for AWS and Github Pages](https://marlonjmejia.github.io/)
 
 - S3 to store and manage object files for a static website, CloudFront for faster distribution of the content, Used Route 53 to correctly route my domains and mail servers. Cert Manager to create a certificate for security.
-- CodePipeline and Github Actions to automate the deployment and testing of the website.
+- Create in Markdown for ease of editing, used `pandoc` to convert from Markdown to multiple different formats.
+- CodePipeline and Github Actions to automate the deployment and testing of the website, creation of multiple different file formats (.pdf, .docx)
 
 ### AWS / Oracle Cloud / Azure
 
 - Utilized Packer to create a golden image for a Wireguard VPN, Terraform to provision and manage various AWS services such as EC2, CloudFront, VPC, Security Groups, and Route53.
 - Leveraged Ansible to automatically configure the installation of Wireguard VPN and NGINX on the provisioned infrastructure.
 - Leverage the provisioned infrastructure created with Terraform by configruing it as a reverse proxy for my local hosted resources.
-
-### Resume
-
-- Create in Markdown for ease of editing, used `pandoc` to convert from Markdown to multiple different formats.
-- Created a CI/CD to trigger on github commit to published my website in multiple formats with `pandoc`
