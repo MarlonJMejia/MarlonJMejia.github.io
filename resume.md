@@ -30,9 +30,9 @@
 - Monitor Operating System and Network Hardware for any network disruptions, resource utilization, or power utilization across our datacenters via **Grafana**, **Splunk**, and **Humio**.
 - Collaborated across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination.
 - Conduct regular audits of data center operations to identify areas for improvement and implement changes to optimize performance and reduce costs.
-- Updated documentation related to equipment inventory, network configurations, and standard operating procedures.
+- Updated legacy and old documentation per new standards, enhanced tools with **Bash** and **Python**.
 - Perform routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
-- Troubleshoot multitude of operating systems such as Windows, Linux ( Red Hat, Debian)
+- Troubleshoot multitude of operating systems such as Windows, Linux (Red Hat, Debian)
 
 ># NYI - New York Internet
 >**Datacenter Technician**  
@@ -59,7 +59,7 @@ Proxmox, LXC, Docker
 
 ### Hardware:
 
->Switches, Servers, Arrays, Cisco, Arista, Dell, HPE, Supermicro
+>Switches, Servers, Arrays
 
 ### Operating Systems:
 
