@@ -7,15 +7,12 @@
 
 **Download in** [PDF](resume.pdf) || [DOCX](resume.docx)
 :::
-</header>
+
 ::: contact
 
-**Phone:** [1-631-480-7675](tel:1-631-480-7675)<br>
-**E-Mail:** <a href="mailto:marlon.junior.mejia@gmail.com">marlon.junior.mejia@gmail.com</a><br>
-**LinkedIn:** [marlon-mejia](https://www.linkedin.com/in/marlon-mejia/)<br>
-**Github:** [marlon-mejia](https://github.com/MarlonJMejia)
+**Phone:** [1-631-480-7675](tel:1-631-480-7675) || **E-Mail:** <a href="mailto:marlon.junior.mejia@gmail.com">marlon.junior.mejia@gmail.com</a> || **LinkedIn:** [marlon-mejia](https://www.linkedin.com/in/marlon-mejia/) || **Github:** [marlon-mejia](https://github.com/MarlonJMejia)
 :::
-****
+</header>
 <main>
 
 ># Bloomberg LP 
@@ -56,10 +53,6 @@
 >Terraform, Ansible, Python, Bash, Powershell,<br>
 AWS CodePipeline, Github Actions, Jenkins,<br>
 Proxmox, LXC, Docker
-
-### Hardware:
-
->Switches, Servers, Arrays
 
 ### Operating Systems:
 

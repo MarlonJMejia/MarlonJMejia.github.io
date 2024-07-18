@@ -226,7 +226,7 @@ body {
 }
 @media (min-width: 901px) and (max-width: 1800px) {
   body {
-    font-size:17px;
+    font-size:14px;
     margin-left:200px;
     margin-right:200px;
     margin-top:30px;
@@ -236,7 +236,7 @@ body {
 }
 @media (min-width: 1801px) {
   body {
-    font-size:17px;
+    font-size:14px;
     margin-left:20%;
     margin-right:20%;
     margin-top:30px;
@@ -507,6 +507,7 @@ figcaption {
   text-transform: capitalize;
   font-size: 0.9em;
   word-spacing: 10px;
+  align
 }
 .title {
   text-transform: uppercase;
