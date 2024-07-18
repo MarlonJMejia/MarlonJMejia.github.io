@@ -51,8 +51,7 @@
 ### Tools:
 
 >Terraform, Ansible, Python, Bash, Powershell,<br>
-AWS CodePipeline, Github Actions, Jenkins,<br>
-Proxmox, LXC, Docker
+AWS CodePipeline, Github Actions, Jenkins, Docker
 
 ### Operating Systems:
 
