@@ -56,7 +56,8 @@ dfn {
 }
 h1 {
   font-size:2em;
-  margin:0.67em 0
+  /* margin:0.10em 0 */
+  margin: 0.1em 0
 }
 mark {
   background:#ff0;
@@ -236,7 +237,7 @@ body {
 }
 @media (min-width: 1801px) {
   body {
-    font-size:14px;
+    font-size:15px;
     margin-left:20%;
     margin-right:20%;
     margin-top:30px;
@@ -506,8 +507,6 @@ figcaption {
 .contact {
   text-transform: capitalize;
   font-size: 0.9em;
-  word-spacing: 10px;
-  align
 }
 .title {
   text-transform: uppercase;

@@ -10,13 +10,13 @@
 
 ::: contact
 
-**Phone:** [1-631-480-7675](tel:1-631-480-7675) || **E-Mail:** <a href="mailto:marlon.junior.mejia@gmail.com">marlon.junior.mejia@gmail.com</a> || **LinkedIn:** [marlon-mejia](https://www.linkedin.com/in/marlon-mejia/) || **Github:** [marlon-mejia](https://github.com/MarlonJMejia)
+**Phone:** [1-631-480-7675](tel:1-631-480-7675) | **E-Mail:** <a href="mailto:marlon.junior.mejia@gmail.com">marlon.junior.mejia@gmail.com</a> | **LinkedIn:** [marlon-mejia](https://www.linkedin.com/in/marlon-mejia/) | **Github:** [marlon-mejia](https://github.com/MarlonJMejia)
 :::
 </header>
 <main>
 
-># Bloomberg LP 
->**Datacenter Operations Engineer**  
+# Bloomberg LP 
+**Datacenter Operations Engineer**  
 *Nov 2020 - Present*
 
 - Troubleshot Layer 1 & 2 network issues on Server, Switches, Routers, Storage Arrays & Firewalls.
@@ -31,8 +31,8 @@
 - Perform routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
 - Troubleshoot multitude of operating systems such as Windows, Linux (Red Hat, Debian)
 
-># NYI - New York Internet
->**Datacenter Technician**  
+# NYI - New York Internet
+**Datacenter Technician**  
 *Jul 2020 - Nov 2020*
 
 - Provide remote hands and technical support to customers, maintain and upgrade customer hardware, mount and rack equipment.
