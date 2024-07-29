@@ -68,6 +68,7 @@ AWS CodePipeline, Github Actions, Jenkins, Docker
 - [AWS SAA-C03](https://www.credly.com/badges/838a30cd-0701-4069-b4be-68fe22d6962a) - March 31, 2023
 - [Comptia Security+](https://www.credly.com/badges/136d58c4-24d3-4487-aad5-c51e120a3e7f) - November 02, 2020
 - [Comptia A+](https://www.credly.com/badges/89fca521-f3de-4c36-90f5-7552f9c4c26e) - May 22, 2020
+- API Security Architect - Jan 20 2024
 
 :::
 </aside>
