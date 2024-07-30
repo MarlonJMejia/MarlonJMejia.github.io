@@ -29,7 +29,7 @@
 - Conduct regular audits of data center operations to identify areas for improvement and implement changes to optimize performance and reduce costs.
 - Updated legacy and old documentation per new standards, enhanced tools with **Bash** and **Python**.
 - Perform routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
-- Troubleshoot multitude of operating systems such as Windows, Linux (Red Hat, Debian)
+- Troubleshoot multitude of operating systems such as Windows, Linux (Red Hat, Debian), Oracle & AIX
 
 # NYI - New York Internet
 **Datacenter Technician**  
