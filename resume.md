@@ -119,9 +119,9 @@ AWS CodePipeline, Github Actions, Jenkins
 
 ### Automated Provisioning with Proxmox, Terraform, and Ansible
 
-- **Objective**: Streamlined the provisioning and configuration of LXC and VM instances on Proxmox to enhance infrastructure management.
+- **Objective**: Streamlined the provisioning and configuration of LXC containers and VM instances on Proxmox to enhance infrastructure management and automation.
 - **Technologies Used**:
-  - **Provisioning**: Employed Terraform to automate the provisioning of LXC containers and VM instances on Proxmox.
-  - **Configuration Management**: Utilized Ansible to configure and manage the instances post-provisioning, ensuring consistent setup and operational efficiency.
-  - **Backups**: Implemented regular backups using **Kopia**, with infrastructure code stored in GitHub for version control and recovery.
-- **Outcome**: Achieved a more efficient and automated infrastructure setup, reducing manual intervention and improving consistency in instance configuration.
+  - **Provisioning**: Utilized Terraform to automate the creation of LXC containers and VM instances on Proxmox, enabling scalable and efficient infrastructure deployment.
+  - **Configuration Management**: Applied Ansible for post-provisioning configuration and management, ensuring uniform setup and operational consistency.
+  - **Backups**: Set up automated backups using **Kopia**, with infrastructure code securely stored in GitHub for version control and disaster recovery.
+- **Outcome**: Achieved a highly automated and efficient infrastructure management process, significantly reducing manual intervention, enhancing configuration consistency, and ensuring reliable backup and recovery.
