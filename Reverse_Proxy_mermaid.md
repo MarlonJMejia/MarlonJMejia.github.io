@@ -29,6 +29,7 @@ graph TD
 
 ## Security Benefits
 
- - Mask your local IP Address
+ - Isolation
+ - Masks your local IP Address
  - Restrict access of the connection via firewall rules.
  - Crowdsec to detect bad actors and threats.
