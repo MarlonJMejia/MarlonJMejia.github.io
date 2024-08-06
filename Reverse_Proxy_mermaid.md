@@ -1,3 +1,6 @@
+![excadraw](excadraw.svg)
+
+<details>
 ```mermaid
 graph TD
     subgraph Public_Internet
@@ -27,6 +30,7 @@ graph TD
     Proxmox -->|LXC/VMs| Local_Resources
     Proxmox -->|Firewall| OPNsense_Firewall
 ```
+</details>
 
 ## Security Benefits
 
