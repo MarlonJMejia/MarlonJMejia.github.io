@@ -106,7 +106,7 @@ AWS CodePipeline, Github Actions, Jenkins
   - **Automation**: Implemented CI/CD pipelines using CodePipeline and GitHub Actions to automate the deployment and testing processes, ensuring seamless updates and multi-format document generation.
 - **Outcome**: Achieved a streamlined and automated workflow for static website deployment and maintenance, resulting in increased efficiency and reduced manual intervention.
 
-### Reverse Proxy Setup on Oracle Cloud for Local Service Access via Wireguard
+### Exposed Local Services to the Web with a Free Oracle Instance
 
 - **Objective**: Designed and automated the deployment of secure and scalable cloud infrastructure on Oracle Cloud.
 - **Technologies Used**:
