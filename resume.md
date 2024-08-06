@@ -60,23 +60,9 @@ AWS CodePipeline, Github Actions, Jenkins
 **Datacenter Operations Engineer**  
 *Nov 2020 - Present*
 
-- Diagnosed and resolved a multitude Layer 1 & 2 network issues on Server, Switches, Routers, Storage Arrays & Firewalls.
-- Collaborated with hardware vendors to create automation of case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**.
-- Updated legacy programs, scripts, applications, and outdated documentation on our Github using **Python**, **Bash**, and General Markup languages.
-- Created and built 50+ **Dockerfiles** to containerize applications and deployment testing against our python programs and bash scripts.
-- Utilized **Jira** to plan, track, support tickets, and incidents, ensuring efficient incident management and resolution across 1000+ issues.
-- Monitor Operating System and Network Hardware for any network disruptions, resource utilization, or power utilization across our datacenters via **Grafana**, **Splunk**, and **Humio**.
-- Collaborated across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination.
-- Conduct regular audits of data center operations to identify areas for improvement and implement changes to optimize performance and reduce costs.
-- Modernized legacy documentation to align with current industry standards, while enhancing operational efficiency through the development of advanced **Bash** and **Python** automation tools.
-- Perform routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
-- Diagnosed and resolved a multitude of operating systems such as Windows, Linux (Red Hat, Debian), Oracle & AIX
-
-# Bloomberg LP 
-**Datacenter Operations Engineer**  
-*Nov 2020 - Present*
-
-- **Network Issue Resolution**: Diagnosed and resolved a multitude of Layer 1 & 2 network issues on servers, switches, routers, storage arrays, and firewalls.
+- **Diagnosed and resolved**:
+  - Multitude of Layer 1 & 2 network issues on servers, switches, routers, storage arrays, and firewalls.
+  - Issues across a range of operating systems, including Windows, Linux (Red Hat, Debian) ensuring reliable system functionality.
 - **Automation and Scripting**: Collaborated with hardware vendors to automate case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**, reducing operation time from 10 minutes to 30 seconds, resulting in approximately 823 hours saved per year.
 - **Legacy Systems Modernization**: Contributed to the modernization of legacy programs, scripts, and applications, as well as the overhaul of outdated documentation on GitHub. Used **Python**, **Bash**, and markup languages to improve functionality, maintainability, and support collaborative content updates across teams in multiple sites.
 - **Containerization**: Developed over 50 **Dockerfiles** to containerize applications, facilitating consistent deployment and testing of Python programs and Bash scripts.
@@ -86,7 +72,6 @@ AWS CodePipeline, Github Actions, Jenkins
 - **Data Center Optimization**: Executed regular audits of data center operations, identifying improvement opportunities and implementing strategies to enhance performance and reduce costs.
 - **Documentation Modernization**: Modernized legacy documentation to align with current industry standards while enhancing operational efficiency through advanced **Bash** and **Python** automation tools.
 - **System Maintenance and Upgrades**: Managed routine maintenance, including hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
-- **Operating System Troubleshooting**: Diagnosed and resolved issues across a range of operating systems, including Windows, Linux (Red Hat, Debian), Oracle, and AIX, ensuring reliable system functionality.
 
 # NYI - New York Internet
 **Datacenter Technician**  
