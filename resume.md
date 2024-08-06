@@ -61,17 +61,17 @@ AWS CodePipeline, Github Actions, Jenkins
 *Nov 2020 - Present*
 
 - **Issue Diagnosis and Resolution**:
-  - Addressed Layer 1 & 2 connectivity issues across 1000+ servers, switches, routers, and firewalls.
-  - Resolved system issues across various operating systems, including Windows and Linux (Red Hat, Debian) to ensure consistent and reliable functionality.
-- **Automation and Scripting**: Collaborated with hardware vendors to automate case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**, reducing operation time from 10 minutes to 30 seconds, resulting in approximately 823 hours saved per year.
-- **Legacy Systems Modernization**: Contributed to the modernization of legacy programs, scripts, and applications, as well as the overhaul of outdated documentation on GitHub. Used **Python**, **Bash**, and markup languages to improve functionality, maintainability, and support collaborative content updates across teams in multiple sites.
-- **Containerization**: Developed over 50 **Dockerfiles** to containerize applications, facilitating consistent deployment and testing of Python programs and Bash scripts.
-- **Incident Management**: Utilized **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution.
+  - Addresse Layer 1 & 2 connectivity issues across 1000+ servers, switches, routers, and firewalls.
+  - Resolve system issues across various operating systems, including Windows and Linux (Red Hat, Debian) to ensure consistent and reliable functionality.
+- **Automation and Scripting**: Collaborate with hardware vendors to automate case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**, reducing operation time from 10 minutes to 30 seconds, resulting in approximately 823 hours saved per year.
+- **Legacy Systems Modernization**: Contribute to the modernization of legacy programs, scripts, and applications, as well as the overhaul of outdated documentation on GitHub. Used **Python**, **Bash**, and markup languages to improve functionality, maintainability, and support collaborative content updates across teams in multiple sites.
+- **Containerization**: Develope over 50 **Dockerfiles** to containerize applications, facilitating consistent deployment and testing of Python programs and Bash scripts.
+- **Incident Management**: Utilize **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution.
 - **Monitoring and Analysis**: Oversaw operating systems and network hardware across datacenters, tracking disruptions, resource utilization, and power consumption using **Grafana**, **Splunk**, and **Humio**.
-- **Cross-Team Collaboration**: Collaborated across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination.
-- **Data Center Optimization**: Executed regular audits of data center operations, identifying improvement opportunities and implementing strategies to enhance performance and reduce costs.
-- **Documentation Modernization**: Modernized legacy documentation to align with current industry standards while enhancing operational efficiency through advanced **Bash** and **Python** automation tools.
-- **System Maintenance and Upgrades**: Managed routine maintenance, including hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
+- **Cross-Team Collaboration**: Collaborate across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination.
+- **Data Center Optimization**: Execute regular audits of data center operations, identifying improvement opportunities and implementing strategies to enhance performance and reduce costs.
+- **Documentation Modernization**: Modernize legacy documentation to align with current industry standards while enhancing operational efficiency through advanced **Bash** and **Python** automation tools.
+- **System Maintenance and Upgrades**: Manage routine maintenance, including hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
 
 # NYI - New York Internet
 **Datacenter Technician**  
