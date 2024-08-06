@@ -68,7 +68,7 @@ AWS CodePipeline, Github Actions, Jenkins
 - **Containerization**: Develope over 50 **Dockerfiles** to containerize applications, facilitating consistent deployment and testing of Python programs and Bash scripts.
 - **Incident Management**: Utilize **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution.
 - **Monitoring and Analysis**: Oversaw operating systems and network hardware across datacenters, tracking disruptions, resource utilization, and power consumption using **Grafana**, **Splunk**, and **Humio**.
-- **Cross-Team Collaboration**: Collaborate across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination.
+- **Cross-Team Collaboration**: Collaborate across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination across multiple Datacenter sites.
 - **Data Center Optimization**: Execute regular audits of data center operations, identifying improvement opportunities and implementing strategies to enhance performance and reduce costs.
 - **Documentation Modernization**: Modernize legacy documentation to align with current industry standards while enhancing operational efficiency through advanced **Bash** and **Python** automation tools.
 - **System Maintenance and Upgrades**: Manage routine maintenance, including hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
