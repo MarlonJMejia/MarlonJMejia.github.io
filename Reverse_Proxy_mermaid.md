@@ -18,7 +18,7 @@ graph TD
     subgraph Local_Resources
         direction TB
         Grafana[Grafana]
-        Local_Website[Services]
+        Local_Website[Other]
     end
 
     User -->|HTTP/HTTPS| Reverse_Proxy
