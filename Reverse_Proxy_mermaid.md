@@ -17,14 +17,15 @@ graph TD
 
     subgraph Local_Resources
         direction TB
-        Grafana[Grafana Local Endpoint]
-        Local_Website[Local Website]
+        Grafana[Grafana]
+        Local_Website[Services]
     end
 
     User -->|HTTP/HTTPS| Reverse_Proxy
     Reverse_Proxy -->|Tunnel| Wireguard_Connection
     Wireguard_Connection -->|Traffic| Grafana
-    Wireguard_Connection -->|Traffic| Other_Endpoints
+    Proxmox -->|LXC| Local_Resources
+    Proxmox -->|Firewall| OPNsense_Firewall
 ```
 
 ## Security Benefits
