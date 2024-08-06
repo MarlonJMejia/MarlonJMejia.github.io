@@ -77,15 +77,15 @@ AWS CodePipeline, Github Actions, Jenkins
 **Datacenter Technician**  
 *Jul 2020 - Nov 2020*
 
-- **Core Responsibilities**: Possess comprehensive knowledge of network operations center functions, including network management, server monitoring, system administration, network system testing and troubleshooting, network analysis and enhancements, preventative maintenance, and network security.
+- **Core Responsibilities**: Possessed comprehensive knowledge of network operations center functions, including network management, server monitoring, system administration, network system testing and troubleshooting, network analysis and enhancements, preventative maintenance, and network security.
 
-- **Customer Support**: Provide remote hands and technical support for clients, performing tasks such as mounting KVM switches, hot-swapping drives, cross-connecting cables, moving cables, rebooting devices, configuring equipment, and offering expert advice and recommendations for optimizing client device performance.
+- **Customer Support**: Provided remote hands and technical support for clients, performing tasks such as mounting KVM switches, hot-swapping drives, cross-connecting cables, moving cables, rebooting devices, configuring equipment, and offering expert advice and recommendations for optimizing client device performance.
 
-- **Network Monitoring**: Utilize tools such as LogicMonitor, ConnectWise, and Meraki to monitor over 1000+ pieces of onsite equipment for outages, circuit issues, switch and router interface problems, and networking issues like DDoS attacks, abuse reports, and DNS record discrepancies. Quickly respond to and resolve incidents and outages in the environment.
+- **Network Monitoring**: Utilized tools such as LogicMonitor, ConnectWise, and Meraki to monitor over 1000+ pieces of onsite equipment for outages, circuit issues, switch and router interface problems, and networking issues like DDoS attacks, abuse reports, and DNS record discrepancies. Quickly respond to and resolve incidents and outages in the environment.
 
 - **Automation**: Developed Python scripts to automate Google Drive tasks, including copying, editing, and uploading spreadsheets, documents, and files.
 
-- **Hardware Management**: Expertly mount and rack servers, switches, and routers in client cabinets, ensuring organized and efficient setups through methodical cable and power management. Perform racking/stacking, decommissioning of hardware, RJ45 cabling, and fiber cable runs. Test copper and fiber cable runs using Fluke equipment.
+- **Hardware Management**: Mount and rack servers, switches, and routers in client cabinets, ensuring organized and efficient setups through methodical cable and power management. Perform racking/stacking, decommissioning of hardware, RJ45 cabling, and fiber cable runs. Test copper and fiber cable runs using Fluke equipment.
 
 - **Customer Interaction**: Regularly engage with customers, offering professional and welcoming communication. Inform clients about new services and provide general tips to enhance their experience with our department.
 
@@ -106,7 +106,7 @@ AWS CodePipeline, Github Actions, Jenkins
   - **Automation**: Implemented CI/CD pipelines using CodePipeline and GitHub Actions to automate the deployment and testing processes, ensuring seamless updates and multi-format document generation.
 - **Outcome**: Achieved a streamlined and automated workflow for static website deployment and maintenance, resulting in increased efficiency and reduced manual intervention.
 
-### Exposing Local Resources via a Secure Tunnel
+### Cloud Proxy Server
 
 - **Objective**: Designed and automated the deployment of secure, scalable cloud infrastructure on Oracle Cloud to expose local resources.
 - **Technologies Used**:
