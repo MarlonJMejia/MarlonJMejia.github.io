@@ -72,6 +72,23 @@ AWS CodePipeline, Github Actions, Jenkins
 - Perform routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
 - Diagnosed and resolved a multitude of operating systems such as Windows, Linux (Red Hat, Debian), Oracle & AIX
 
+# Bloomberg LP 
+**Datacenter Operations Engineer**  
+*Nov 2020 - Present*
+
+- **Network Issue Resolution**: Diagnosed and resolved a multitude of Layer 1 & 2 network issues on servers, switches, routers, storage arrays, and firewalls.
+- **Automation and Scripting**: Collaborated with hardware vendors to automate case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**, reducing operation time from 10 minutes to 30 seconds, resulting in approximately 823 hours saved per year.
+- **Legacy Systems Modernization**: Contributed to the modernization of legacy programs, scripts, and applications, as well as the overhaul of outdated documentation on GitHub. Used **Python**, **Bash**, and markup languages to improve functionality, maintainability, and support collaborative content updates across teams in multiple sites.
+- **Containerization**: Created and built 50+ **Dockerfiles** to containerize applications and deploy testing against Python programs and Bash scripts.
+- **Incident Management**: Utilized **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution of over 1000+ issues.
+- **Monitoring and Analysis**: Monitored operating systems and network hardware for disruptions, resource utilization, and power consumption across datacenters using **Grafana**, **Splunk**, and **Humio**.
+- **Cross-Team Collaboration**: Collaborated across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination.
+- **Data Center Audits**: Conducted regular audits of data center operations to identify areas for improvement and implement changes to optimize performance and reduce costs.
+- **Documentation Modernization**: Modernized legacy documentation to align with current industry standards while enhancing operational efficiency through advanced **Bash** and **Python** automation tools.
+- **Maintenance and Upgrades**: Performed routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
+- **OS Issue Resolution**: Diagnosed and resolved issues across various operating systems including Windows, Linux (Red Hat, Debian), Oracle, and AIX.
+
+
 # NYI - New York Internet
 **Datacenter Technician**  
 *Jul 2020 - Nov 2020*
