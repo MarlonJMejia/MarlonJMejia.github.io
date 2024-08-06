@@ -58,13 +58,12 @@ AWS CodePipeline, Active Directory, Github Actions
 - **Automation**:
   - Led a project to automate case opening and log gathering across multiple systems by utilizing **REST APIs** and **Python**.
   - Reduced operation time from over 20 minutes to just 30 seconds per task, saving approximately 1690 hours annually.
-- **Legacy Content Modernization**: Contribute to the overhaul of outdated documentation with **Python**, **Bash**, **Git**.
+- **Legacy Modernization**: Contribute to the overhaul of outdated programs and documentation with **Python**, **Bash**, **Git**.
 - **Containerization**: Develope over 50 **Dockerfiles** to containerize and facilitate consistent deployment and testing of **Python** and **Bash** .
 - **Incident Management**: Utilize **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution.
-- **Monitoring and Analysis**: Oversaw operating systems and network hardware across datacenters, tracking disruptions, resource utilization, and power consumption using **Grafana**, **Splunk**, and **Humio**.
+- **Monitoring and Analysis**: Servers and Network Devices across datacenters, tracking disruptions, resource utilization, and power consumption using **Grafana**, **Splunk**, and **Humio**.
 - **Cross-Team Collaboration**: Collaborate across multiple technical teams to deliver Agile-based projects, ensuring seamless communication and coordination across multiple Datacenter sites.
 - **Data Center Optimization**: Execute regular audits of data center operations, identifying improvement opportunities and implementing strategies to enhance performance and reduce costs.
-- **Documentation Modernization**: Modernize legacy documentation to align with current industry standards while enhancing operational efficiency through advance **Bash** and **Python** automation tools.
 - **System Maintenance and Upgrades**: Perform routine maintenance, hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
 
 ---
