@@ -527,6 +527,15 @@ header {
 }
 .Skills{
   font-style: none;
+  margin: left;
+  text-align: left;
+  p {
+    font-style: normal;
+  }
+}
+.Certifications{
+  font-style: none;
+  margin: right;
   text-align: left;
   p {
     font-style: normal;

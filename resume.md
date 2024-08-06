@@ -20,14 +20,14 @@
 
 # Skills
 
-**Tools**: Terraform, Ansible, Docker, Active Directory<br>
-AWS CodePipeline, Github Actions, Jenkins
+**Tools**: *Terraform, Ansible, Docker, Jenkins,<br>
+AWS CodePipeline, Active Directory, Github Actions
 
-**Operating Systems**: Linux, Windows
+**Operating Systems**: *Linux, Windows*
 
-**Programming**: Bash, Python, Powershell
+**Programming**: *Bash, Python, Powershell*
 
-**Software**: Jira, Grafana, Splunk, Humio
+**Software**: *Jira, Grafana, Splunk, Humio*
 
 :::
 
@@ -79,6 +79,7 @@ AWS CodePipeline, Github Actions, Jenkins
 - **Documentation**: Documented server setups and task methodologies for efficient handovers.
 
 </main>
+
 ----
 
 # Side Projects
