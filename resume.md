@@ -13,34 +13,6 @@
 **Phone:** [1-631-480-7675](tel:1-631-480-7675) | **E-Mail:** <a href="mailto:marlon.junior.mejia@gmail.com">marlon.junior.mejia@gmail.com</a> | **LinkedIn:** [marlon-mejia](https://www.linkedin.com/in/marlon-mejia/) | **Github:** [marlon-mejia](https://github.com/MarlonJMejia)
 :::
 </header>
-<main>
-
-# Bloomberg LP 
-**Datacenter Operations Engineer**  
-*Nov 2020 - Present*
-
-- Troubleshot Layer 1 & 2 network issues on Server, Switches, Routers, Storage Arrays & Firewalls.
-- Collaborated with hardware vendors to create automation of case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**.
-- Updated legacy programs, scripts, applications, and outdated documentation on our Github using **Python**, **Bash**, and General Markup languages.
-- Created and built **Dockerfiles** to containerize applications and run deployment tests.
-- Utilized **Jira** to plan, track, support tickets, and incidents, ensuring efficient incident management and resolution.
-- Monitor Operating System and Network Hardware for any network disruptions, resource utilization, or power utilization across our datacenters via **Grafana**, **Splunk**, and **Humio**.
-- Collaborated across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination.
-- Conduct regular audits of data center operations to identify areas for improvement and implement changes to optimize performance and reduce costs.
-- Updated legacy and old documentation per new standards, enhanced tools with **Bash** and **Python**.
-- Perform routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
-- Troubleshoot multitude of operating systems such as Windows, Linux (Red Hat, Debian), Oracle & AIX
-
-# NYI - New York Internet
-**Datacenter Technician**  
-*Jul 2020 - Nov 2020*
-
-- Provide remote hands and technical support to customers, maintain and upgrade customer hardware, mount and rack equipment.
-- Monitor over 1000+ of onsite equipment, quickly aiding to any incidents or outages on our environment.
-- Automation of Google Drive copy, editing, and uploading with **Python** for spreadsheets, docs, and files.
-- Racking/stacking and decommissioning of hardware, RJ45 Cabling, and Fiber Cable runs. Testing of copper and fiber cable runs with Fluke equipment.
-</main>
-----
 
 <aside>
 
@@ -50,12 +22,20 @@
 
 ### Tools:
 
->Terraform, Ansible, Python, Bash, Powershell,<br>
-AWS CodePipeline, Github Actions, Jenkins, Docker
+>Terraform, Ansible, Docker,<br>
+AWS CodePipeline, Github Actions, Jenkins
 
 ### Operating Systems:
 
->Linux, Unix, Ubuntu, Debian, RHEL, Windows
+>Linux, Windows
+
+### Programming:
+
+> Bash, Python, Powershell
+
+### Software:
+
+> Jira, Grafana, Splunk, Humio
 
 :::
 
@@ -74,16 +54,63 @@ AWS CodePipeline, Github Actions, Jenkins, Docker
 </aside>
 ---
 
+<main>
+
+# Bloomberg LP 
+**Datacenter Operations Engineer**  
+*Nov 2020 - Present*
+
+- Diagnosed and resolved a multitude Layer 1 & 2 network issues on Server, Switches, Routers, Storage Arrays & Firewalls.
+- Collaborated with hardware vendors to create automation of case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**.
+- Updated legacy programs, scripts, applications, and outdated documentation on our Github using **Python**, **Bash**, and General Markup languages.
+- Created and built 50+ **Dockerfiles** to containerize applications and deployment testing against our python programs and bash scripts.
+- Utilized **Jira** to plan, track, support tickets, and incidents, ensuring efficient incident management and resolution across 1000+ issues.
+- Monitor Operating System and Network Hardware for any network disruptions, resource utilization, or power utilization across our datacenters via **Grafana**, **Splunk**, and **Humio**.
+- Collaborated across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination.
+- Conduct regular audits of data center operations to identify areas for improvement and implement changes to optimize performance and reduce costs.
+- Modernized legacy documentation to align with current industry standards, while enhancing operational efficiency through the development of advanced **Bash** and **Python** automation tools.
+- Perform routine maintenance tasks such as hardware upgrades, firmware updates, and patch management to ensure optimal system performance.
+- Diagnosed and resolved a multitude of operating systems such as Windows, Linux (Red Hat, Debian), Oracle & AIX
+
+# NYI - New York Internet
+**Datacenter Technician**  
+*Jul 2020 - Nov 2020*
+
+- Provide remote hands and technical support to customers, maintain and upgrade customer hardware, mount and rack equipment.
+- Monitor over 1000+ of onsite equipment, quickly aiding to any incidents or outages on our environment.
+- Automation of Google Drive copy, editing, and uploading with **Python** for spreadsheets, docs, and files.
+- Racking/stacking and decommissioning of hardware, RJ45 Cabling, and Fiber Cable runs. Testing of copper and fiber cable runs with Fluke equipment.
+Core Responsibilities: Possess comprehensive knowledge of network operations center functions, including network management, server monitoring, system administration, network system testing and troubleshooting, network analysis and enhancements, preventative maintenance, and network security.
+
+Customer Support: Provide hands-on support for clients, performing tasks such as mounting KVM switches, hot-swapping drives, cross-connecting cables, moving cables, rebooting devices, and configuring equipment. Offer expert advice and recommendations for optimizing client device performance.
+
+Network Monitoring: Utilize various tools such as LogicMonitor, ConnectWise, and Meraki to monitor for outages, circuit issues, switch and router interface problems, and networking issues like DDoS attacks, abuse reports, and DNS record discrepancies.
+
+Customer Interaction: Regularly engage with customers, offering professional and welcoming communication. Inform clients about new services and provide general tips to enhance their experience with our department.
+
+Documentation: Maintain detailed documentation for client servers, in-house servers, and personal methodologies for task execution. Ensure clear and thorough internal messages are left to facilitate seamless task handover to colleagues.
+
+Equipment Handling: Expertly mount and rack servers, switches, and routers in client cabinets. Employ methodical approaches to cable and power management, ensuring organized and efficient setups.
+</main>
+----
+
 # Side Projects
 
-### [CI/CD Project for AWS and Github Pages](https://marlonjmejia.github.io/)
+### CI/CD Project for AWS and GitHub Pages
 
-- S3 to store and manage object files for a static website, CloudFront for faster distribution of the content, Used Route 53 to correctly route my domains and mail servers. Cert Manager to create a certificate for security.
-- Create in Markdown for ease of editing, used `pandoc` to convert from Markdown to multiple different formats.
-- CodePipeline and Github Actions to automate the deployment and testing of the website, creation of multiple different file formats (.pdf, .docx)
+- **Objective**: Developed a robust CI/CD pipeline to automate the deployment of a static website hosted on AWS.
+- **Technologies Used**:
+  - **AWS Services**: Utilized S3 for object storage, CloudFront for content distribution, and Route 53 for domain and DNS management. Implemented SSL certificates using AWS Certificate Manager for enhanced security.
+  - **Development**: Created content in Markdown for ease of editing and used `pandoc` to convert Markdown files into multiple formats such as PDF and DOCX.
+  - **Automation**: Implemented CI/CD pipelines using CodePipeline and GitHub Actions to automate the deployment and testing processes, ensuring seamless updates and multi-format document generation.
+- **Outcome**: Achieved a streamlined and automated workflow for static website deployment and maintenance, resulting in increased efficiency and reduced manual intervention.
 
-### AWS / Oracle Cloud / Azure
+### Cloud Infrastructure and Automation with Oracle Cloud
 
-- Utilized Packer to create a golden image for a Wireguard VPN, Terraform to provision and manage various AWS services such as EC2, CloudFront, VPC, Security Groups, and Route53.
-- Leveraged Ansible to automatically configure the installation of Wireguard VPN and NGINX on the provisioned infrastructure.
-- Leverage the provisioned infrastructure created with Terraform by configruing it as a reverse proxy for my local hosted resources.
+- **Objective**: Designed and automated the deployment of secure and scalable cloud infrastructure on Oracle Cloud.
+- **Technologies Used**:
+  - **Image Creation**: Utilized Packer to create a golden image for Wireguard VPN, ensuring consistent and secure deployments.
+  - **Infrastructure as Code**: Employed Terraform to provision and manage cloud resources on Oracle Cloud.
+  - **Configuration Management**: Leveraged Ansible to automate the installation and configuration of Wireguard VPN and NGINX on the provisioned infrastructure.
+  - **Reverse Proxy**: Configured the provisioned infrastructure to securely route traffic to a Grafana local endpoint and a local website hosted behind a Wireguard connection between an OPNsense firewall and the OCI instance.
+- **Outcome**: Delivered a highly automated and reliable infrastructure setup, enhancing security and performance for local-hosted services while reducing manual configuration efforts.
