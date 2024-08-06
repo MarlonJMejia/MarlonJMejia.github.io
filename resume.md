@@ -89,7 +89,7 @@ AWS CodePipeline, Github Actions, Jenkins
 
 - **Customer Interaction**: Regularly engage with customers, offering professional and welcoming communication. Inform clients about new services and provide general tips to enhance their experience with our department.
 
-- **Documentation**: Maintain detailed documentation for client servers, in-house servers, and personal methodologies for task execution. Ensure clear and thorough internal messages are left to facilitate seamless task handover to colleagues.
+- **Documentation**: Maintained detail documentation for client servers, in-house servers, and personal methodologies for task execution. Ensure clear and thorough internal messages are left to facilitate seamless task handover to colleagues.
 
 
 </main>
