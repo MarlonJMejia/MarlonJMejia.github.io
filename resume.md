@@ -25,7 +25,7 @@ AWS CodePipeline, Github Actions, Jenkins
 
 **Operating Systems**: Linux, Windows
 
-**Programming: Bash**, Python, Powershell
+**Programming**: Bash, Python, Powershell
 
 **Software**: Jira, Grafana, Splunk, Humio
 
