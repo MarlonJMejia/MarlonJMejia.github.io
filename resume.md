@@ -20,7 +20,7 @@
 
 # Skills
 
-**Tools**: *Terraform, Ansible, Docker, Jenkins,<br>
+**Tools**: Terraform, Ansible, Docker, Jenkins,<br>
 AWS CodePipeline, Active Directory, Github Actions
 
 **Operating Systems**: *Linux, Windows*
@@ -55,7 +55,10 @@ AWS CodePipeline, Active Directory, Github Actions
 - **Issue Diagnosis and Resolution**:
   - Addresse Layer 1 & 2 connectivity issues across 1000+ servers, switches, routers, and firewalls.
   - Resolve issues across operating systems, including Windows and Linux (Red Hat, Debian) to ensure consistent and reliable functionality.
-- **Automation**: Led the project to automate case opening and log gathering across multiple systems and network devices by collaborating with hardware vendors and utilizing **REST APIs** and **Python**. This initiative reduced operation time from over 20 minutes to just 30 seconds per task, saving approximately 1690 hours annually.
+  - Respond to trouble ticket in our bucket queue to troubleshoot issues quickly and effectively determining the scale of the issue.
+- **Automation**:
+  - Led a project to automate case opening and log gathering across multiple systems and network devices by collaborating with hardware vendors and utilizing **REST APIs** and **Python**.
+  - This initiative reduced operation time from over 20 minutes to just 30 seconds per task, saving approximately 1690 hours annually.
 - **Legacy Systems Modernization**: Contribute to the modernization of legacy programs, scripts, and applications, as well as the overhaul of outdated documentation on GitHub. Using **Python**, **Bash**, and **Markdown** to improve functionality, maintainability, and support collaborative content updates across teams in multiple sites.
 - **Containerization**: Develope over 50 **Dockerfiles** to containerize applications, facilitating consistent deployment and testing of Python programs and Bash scripts.
 - **Incident Management**: Utilize **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution.
