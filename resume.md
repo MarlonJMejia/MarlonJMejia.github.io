@@ -61,8 +61,8 @@ AWS CodePipeline, Github Actions, Jenkins
 *Nov 2020 - Present*
 
 - **Diagnosed and resolved**:
-  - Multitude of Layer 1 & 2 network issues on servers, switches, routers, storage arrays, and firewalls.
-  - Issues across a range of operating systems, including Windows, Linux (Red Hat, Debian) ensuring reliable system functionality.
+  - Layer 1 & 2 on more than 1000+ servers, switches, routers, storage arrays, and firewalls.
+  - Across a range of operating systems, including Windows, Linux (Red Hat, Debian) ensuring reliable system functionality.
 - **Automation and Scripting**: Collaborated with hardware vendors to automate case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**, reducing operation time from 10 minutes to 30 seconds, resulting in approximately 823 hours saved per year.
 - **Legacy Systems Modernization**: Contributed to the modernization of legacy programs, scripts, and applications, as well as the overhaul of outdated documentation on GitHub. Used **Python**, **Bash**, and markup languages to improve functionality, maintainability, and support collaborative content updates across teams in multiple sites.
 - **Containerization**: Developed over 50 **Dockerfiles** to containerize applications, facilitating consistent deployment and testing of Python programs and Bash scripts.
