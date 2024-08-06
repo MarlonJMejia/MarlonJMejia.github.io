@@ -22,7 +22,7 @@
 
 ### Tools:
 
->Terraform, Ansible, Docker,<br>
+>Terraform, Ansible, Docker, Active Directory<br>
 AWS CodePipeline, Github Actions, Jenkins
 
 ### Operating Systems:
@@ -76,21 +76,21 @@ AWS CodePipeline, Github Actions, Jenkins
 **Datacenter Technician**  
 *Jul 2020 - Nov 2020*
 
-- Provide remote hands and technical support to customers, maintain and upgrade customer hardware, mount and rack equipment.
-- Monitor over 1000+ of onsite equipment, quickly aiding to any incidents or outages on our environment.
-- Automation of Google Drive copy, editing, and uploading with **Python** for spreadsheets, docs, and files.
-- Racking/stacking and decommissioning of hardware, RJ45 Cabling, and Fiber Cable runs. Testing of copper and fiber cable runs with Fluke equipment.
-Core Responsibilities: Possess comprehensive knowledge of network operations center functions, including network management, server monitoring, system administration, network system testing and troubleshooting, network analysis and enhancements, preventative maintenance, and network security.
+- **Core Responsibilities**: Possess comprehensive knowledge of network operations center functions, including network management, server monitoring, system administration, network system testing and troubleshooting, network analysis and enhancements, preventative maintenance, and network security.
 
-Customer Support: Provide hands-on support for clients, performing tasks such as mounting KVM switches, hot-swapping drives, cross-connecting cables, moving cables, rebooting devices, and configuring equipment. Offer expert advice and recommendations for optimizing client device performance.
+- **Customer Support**: Provide remote hands and technical support for clients, performing tasks such as mounting KVM switches, hot-swapping drives, cross-connecting cables, moving cables, rebooting devices, configuring equipment, and offering expert advice and recommendations for optimizing client device performance.
 
-Network Monitoring: Utilize various tools such as LogicMonitor, ConnectWise, and Meraki to monitor for outages, circuit issues, switch and router interface problems, and networking issues like DDoS attacks, abuse reports, and DNS record discrepancies.
+- **Network Monitoring**: Utilize tools such as LogicMonitor, ConnectWise, and Meraki to monitor over 1000+ pieces of onsite equipment for outages, circuit issues, switch and router interface problems, and networking issues like DDoS attacks, abuse reports, and DNS record discrepancies. Quickly respond to and resolve incidents and outages in the environment.
 
-Customer Interaction: Regularly engage with customers, offering professional and welcoming communication. Inform clients about new services and provide general tips to enhance their experience with our department.
+- **Automation**: Developed Python scripts to automate Google Drive tasks, including copying, editing, and uploading spreadsheets, documents, and files.
 
-Documentation: Maintain detailed documentation for client servers, in-house servers, and personal methodologies for task execution. Ensure clear and thorough internal messages are left to facilitate seamless task handover to colleagues.
+- **Hardware Management**: Expertly mount and rack servers, switches, and routers in client cabinets, ensuring organized and efficient setups through methodical cable and power management. Perform racking/stacking, decommissioning of hardware, RJ45 cabling, and fiber cable runs. Test copper and fiber cable runs using Fluke equipment.
 
-Equipment Handling: Expertly mount and rack servers, switches, and routers in client cabinets. Employ methodical approaches to cable and power management, ensuring organized and efficient setups.
+- **Customer Interaction**: Regularly engage with customers, offering professional and welcoming communication. Inform clients about new services and provide general tips to enhance their experience with our department.
+
+- **Documentation**: Maintain detailed documentation for client servers, in-house servers, and personal methodologies for task execution. Ensure clear and thorough internal messages are left to facilitate seamless task handover to colleagues.
+
+
 </main>
 ----
 
