@@ -53,7 +53,7 @@ AWS CodePipeline, Active Directory, Github Actions
 *Nov 2020 - Present*
 
 - **Issue Diagnosis and Resolution**:
-  - Addresse Layer 1 & 2 connectivity issues across 1000+ servers, switches, routers, and firewalls.
+  - Address Layer 1 & 2 connectivity issues across 1000+ servers, switches, routers, and firewalls.
   - Resolve issues across operating systems, including Windows and Linux (Red Hat, Debian) to ensure consistent and reliable functionality.
   - Respond to trouble ticket in our bucket queue to troubleshoot issues quickly and effectively determining the scale of the issue.
 - **Automation**:
