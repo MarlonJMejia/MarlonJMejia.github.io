@@ -56,7 +56,7 @@ AWS CodePipeline, Github Actions, Jenkins
 
 <main>
 
-# Bloomberg LP 
+## Bloomberg LP 
 **Datacenter Operations Engineer**  
 *Nov 2020 - Present*
 
@@ -73,24 +73,19 @@ AWS CodePipeline, Github Actions, Jenkins
 - **Documentation Modernization**: Modernize legacy documentation to align with current industry standards while enhancing operational efficiency through advance **Bash** and **Python** automation tools.
 - **System Maintenance and Upgrades**: Manage routine maintenance, including hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
 
-# NYI - New York Internet
+---
+
+## NYI - New York Internet
 **Datacenter Technician**  
 *Jul 2020 - Nov 2020*
 
-- **Core Responsibilities**: Possessed comprehensive knowledge of network operations center functions, including network management, server monitoring, system administration, network system testing and troubleshooting, network analysis and enhancements, preventative maintenance, and network security.
-
-- **Customer Support**: Provided remote hands and technical support for clients, performing tasks such as mounting KVM switches, hot-swapping drives, cross-connecting cables, moving cables, rebooting devices, configuring equipment, and offering expert advice and recommendations for optimizing client device performance.
-
-- **Network Monitoring**: Utilized tools such as LogicMonitor, ConnectWise, and Meraki to monitor over 1000+ pieces of onsite equipment for outages, circuit issues, switch and router interface problems, and networking issues like DDoS attacks, abuse reports, and DNS record discrepancies. Quickly respond to and resolve incidents and outages in the environment.
-
-- **Automation**: Developed Python scripts to automate Google Drive tasks, including copying, editing, and uploading spreadsheets, documents, and files.
-
-- **Hardware Management**: Mount and rack servers, switches, and routers in client cabinets, ensuring organized and efficient setups through methodical cable and power management. Perform racking/stacking, decommissioning of hardware, RJ45 cabling, and fiber cable runs. Test copper and fiber cable runs using Fluke equipment.
-
-- **Customer Interaction**: Regularly engage with customers, offering professional and welcoming communication. Inform clients about new services and provide general tips to enhance their experience with our department.
-
-- **Documentation**: Maintained detail documentation for client servers, in-house servers, and personal methodologies for task execution. Ensure clear and thorough internal messages are left to facilitate seamless task handover to colleagues.
-
+- **Core Responsibilities**: Managed network operations including server monitoring, system administration, and network security.
+- **Customer Support**: Provided remote technical support, including device configuration, troubleshooting, and optimization.
+- **Network Monitoring**: Monitored over 1000 devices using **LogicMonitor, ConnectWise, and Meraki**. resolved outages and network issues.
+- **Automation**: Automated Google Drive tasks with **Python** scripts using Drive **API**.
+- **Hardware Management**: Installed and organized hardware, performed cabling and tested with Fluke equipment.
+- **Customer Interaction**: Communicated with clients about services and provided performance tips.
+- **Documentation**: Documented server setups and task methodologies for efficient handovers.
 
 </main>
 ----
