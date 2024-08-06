@@ -123,5 +123,5 @@ AWS CodePipeline, Github Actions, Jenkins
 - **Technologies Used**:
   - **Provisioning**: Employed Terraform to automate the provisioning of LXC containers and VM instances on Proxmox.
   - **Configuration Management**: Utilized Ansible to configure and manage the instances post-provisioning, ensuring consistent setup and operational efficiency.
-  - **Backups**: Implemented regular backups using **Kopia** every 12 hours, with infrastructure code stored in GitHub for version control and recovery.
+  - **Backups**: Implemented regular backups using **Kopia**, with infrastructure code stored in GitHub for version control and recovery.
 - **Outcome**: Achieved a more efficient and automated infrastructure setup, reducing manual intervention and improving consistency in instance configuration.
