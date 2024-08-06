@@ -63,8 +63,8 @@ AWS CodePipeline, Github Actions, Jenkins
 - **Issue Diagnosis and Resolution**:
   - Addresse Layer 1 & 2 connectivity issues across 1000+ servers, switches, routers, and firewalls.
   - Resolve system issues across various operating systems, including Windows and Linux (Red Hat, Debian) to ensure consistent and reliable functionality.
-- **Automation and Scripting**: Collaborate with hardware vendors to automate case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**, reducing operation time from 10 minutes to 30 seconds, resulting in approximately 823 hours saved per year.
-- **Legacy Systems Modernization**: Contribute to the modernization of legacy programs, scripts, and applications, as well as the overhaul of outdated documentation on GitHub. Used **Python**, **Bash**, and markup languages to improve functionality, maintainability, and support collaborative content updates across teams in multiple sites.
+- **Automation and Scripting**: Collaborate with hardware vendors to automate case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**, reducing operation time from 20 minutes+ to 30 seconds, resulting in approximately 1690 hours per year.
+- **Legacy Systems Modernization**: Contribute to the modernization of legacy programs, scripts, and applications, as well as the overhaul of outdated documentation on GitHub. Using **Python**, **Bash**, and **Markdown** to improve functionality, maintainability, and support collaborative content updates across teams in multiple sites.
 - **Containerization**: Develope over 50 **Dockerfiles** to containerize applications, facilitating consistent deployment and testing of Python programs and Bash scripts.
 - **Incident Management**: Utilize **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution.
 - **Monitoring and Analysis**: Oversaw operating systems and network hardware across datacenters, tracking disruptions, resource utilization, and power consumption using **Grafana**, **Splunk**, and **Humio**.
