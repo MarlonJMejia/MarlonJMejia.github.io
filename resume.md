@@ -52,6 +52,9 @@ AWS CodePipeline, Active Directory, Github Actions
 **Datacenter Operations Engineer**  
 *Nov 2020 - Present*
 
+- **Data Center Operations**:
+  - Rack and Stack: Installed and configured servers and network equipment.
+  - Decommissioning: Managed server and cable removal, data sanitization, and disposal.
 - **Issue Diagnosis and Resolution**:
   - Address Layer 1 & 2 connectivity issues across 1000+ servers, switches, routers, and firewalls.
   - Resolve issues across operating systems, including Windows and Linux (Red Hat, Debian) to ensure consistent and reliable functionality.
