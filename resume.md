@@ -65,7 +65,7 @@ AWS CodePipeline, Active Directory, Github Actions
 - **Cross-Team Collaboration**: Collaborate across multiple technical teams to deliver Agile-based projects, ensuring seamless communication and coordination across multiple Datacenter sites.
 - **Data Center Optimization**: Execute regular audits of data center operations, identifying improvement opportunities and implementing strategies to enhance performance and reduce costs.
 - **Documentation Modernization**: Modernize legacy documentation to align with current industry standards while enhancing operational efficiency through advance **Bash** and **Python** automation tools.
-- **System Maintenance and Upgrades**: Perform routine maintenance, including hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
+- **System Maintenance and Upgrades**: Perform routine maintenance, hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
 
 ---
 
