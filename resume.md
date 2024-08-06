@@ -46,7 +46,7 @@
 
 ## Bloomberg LP 
 **Datacenter Operations Engineer**  
-*Nov 2020 - Present*
+*Nov 2020 - Present* 45HRS per Week
 
 - **Data Center Operations**:
   - Rack and Stack: Installed and configured servers and network equipment.
@@ -67,7 +67,7 @@
 
 ## NYI - New York Internet
 **Datacenter Technician**  
-*Jul 2020 - Nov 2020*
+*Jul 2020 - Nov 2020* 45HRS per Week
 
 - **Customer Support**: Provided remote technical support, including device configuration, troubleshooting, and optimization.
 - **Network Monitoring**: Monitored over 1000 devices using **LogicMonitor, ConnectWise, and Meraki**. resolved outages and network issues.
