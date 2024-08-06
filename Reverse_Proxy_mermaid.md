@@ -24,7 +24,7 @@ graph TD
     User -->|HTTP/HTTPS| Reverse_Proxy
     Reverse_Proxy -->|Tunnel| Wireguard_Connection
     Wireguard_Connection -->|Traffic| Grafana
-    Proxmox -->|LXC| Local_Resources
+    Proxmox -->|LXC/VMs| Local_Resources
     Proxmox -->|Firewall| OPNsense_Firewall
 ```
 
