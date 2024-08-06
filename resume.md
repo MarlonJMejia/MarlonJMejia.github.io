@@ -79,7 +79,6 @@ AWS CodePipeline, Github Actions, Jenkins
 **Datacenter Technician**  
 *Jul 2020 - Nov 2020*
 
-- **Core Responsibilities**: Managed network operations including server monitoring, system administration, and network security.
 - **Customer Support**: Provided remote technical support, including device configuration, troubleshooting, and optimization.
 - **Network Monitoring**: Monitored over 1000 devices using **LogicMonitor, ConnectWise, and Meraki**. resolved outages and network issues.
 - **Automation**: Automated Google Drive tasks with **Python** scripts using Drive **API**.
