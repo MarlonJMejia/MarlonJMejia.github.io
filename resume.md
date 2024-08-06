@@ -87,7 +87,7 @@ graph TD
         User[User]
     end
 
-    User -->|HTTP/HTTPS| Reverse_Proxy[Reverse Proxy]
+    User -->|HTTP/HTTPS| Reverse_Proxy[OCI Proxy]
     Reverse_Proxy -->|Traffic| Grafana_Local_Endpoint
     Reverse_Proxy -->|Traffic| Local_Website
     Reverse_Proxy -->|Tunnel| Wireguard_Connection
