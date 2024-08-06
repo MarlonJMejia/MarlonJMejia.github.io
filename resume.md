@@ -106,16 +106,17 @@ AWS CodePipeline, Github Actions, Jenkins
   - **Automation**: Implemented CI/CD pipelines using CodePipeline and GitHub Actions to automate the deployment and testing processes, ensuring seamless updates and multi-format document generation.
 - **Outcome**: Achieved a streamlined and automated workflow for static website deployment and maintenance, resulting in increased efficiency and reduced manual intervention.
 
-### Exposed Local Services to the Web with a Free Oracle Instance
+### Exposing Local Resources via a Secure Tunnel
 
-- **Objective**: Designed and automated the deployment of secure and scalable cloud infrastructure on Oracle Cloud.
+- **Objective**: Designed and automated the deployment of secure, scalable cloud infrastructure on Oracle Cloud to expose local resources.
 - **Technologies Used**:
-  - **Image Creation**: Utilized Packer to create a golden image for Wireguard VPN, ensuring consistent and secure deployments.
-  - **Infrastructure as Code**: Employed Terraform to provision and manage cloud resources on Oracle Cloud.
-  - **Configuration Management**: Leveraged Ansible to automate the installation and configuration of Wireguard VPN and NGINX on the provisioned infrastructure.
-  - **Reverse Proxy**: Configured the provisioned infrastructure to securely route traffic to a Grafana local endpoint and a local website hosted behind a Wireguard connection between an OPNsense firewall and the OCI instance.
-  - **Security**: Installed CrowdSec on OPNsense to enhance protection for the reverse proxy and mitigate potential security threats.
-- **Outcome**: Delivered a highly automated and reliable infrastructure setup, enhancing security and performance for local-hosted services while reducing manual configuration efforts.
+  - **Image Creation**: Created a secure, consistent deployment environment using Packer to build a golden image for Wireguard VPN.
+  - **Infrastructure as Code**: Automated the provisioning and management of cloud resources on Oracle Cloud with Terraform.
+  - **Configuration Management**: Utilized Ansible to automate the setup and configuration of Wireguard VPN and NGINX on the provisioned infrastructure.
+  - **Reverse Proxy**: Implemented a reverse proxy to securely route traffic to a Grafana local endpoint and a local website through a Wireguard connection between an OPNsense firewall and the OCI instance.
+  - **Security**: Deployed CrowdSec on OPNsense to protect the reverse proxy, enhancing security and mitigating potential threats.
+- **Outcome**: Established a robust, automated infrastructure that securely exposed local resources while enhancing performance and security. The solution reduced manual configuration efforts and improved the overall reliability and protection of the hosted services.
+
 
 ### Automated Provisioning with Proxmox, Terraform, and Ansible
 
