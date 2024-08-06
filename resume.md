@@ -65,7 +65,7 @@ AWS CodePipeline, Github Actions, Jenkins
   - Resolve issues across operating systems, including Windows and Linux (Red Hat, Debian) to ensure consistent and reliable functionality.
 - **Automation and Scripting**: Collaborate with hardware vendors to automate case opening and log gathering on multiple systems and network devices using **REST APIs** and **Python**, reducing operation time from 20 minutes+ to 30 seconds, resulting in approximately 1690 hours per year.
 - **Legacy Systems Modernization**: Contribute to the modernization of legacy programs, scripts, and applications, as well as the overhaul of outdated documentation on GitHub. Using **Python**, **Bash**, and **Markdown** to improve functionality, maintainability, and support collaborative content updates across teams in multiple sites.
-- **Containerization**: Develope over 50 **Dockerfiles** to containerize applications, facilitating consistent deployment and testing of Python programs and Bash scripts.
+- **Containerization**: Developed over 50 **Dockerfiles** to containerize applications, facilitating consistent deployment and testing of Python programs and Bash scripts.
 - **Incident Management**: Utilize **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution.
 - **Monitoring and Analysis**: Oversaw operating systems and network hardware across datacenters, tracking disruptions, resource utilization, and power consumption using **Grafana**, **Splunk**, and **Humio**.
 - **Cross-Team Collaboration**: Collaborate across multiple functional and technical teams to deliver Agile-based projects, ensuring seamless communication and coordination across multiple Datacenter sites.
