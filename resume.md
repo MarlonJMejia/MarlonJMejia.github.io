@@ -116,3 +116,11 @@ AWS CodePipeline, Github Actions, Jenkins
   - **Reverse Proxy**: Configured the provisioned infrastructure to securely route traffic to a Grafana local endpoint and a local website hosted behind a Wireguard connection between an OPNsense firewall and the OCI instance.
   - **Security**: Installed CrowdSec on OPNsense to enhance protection for the reverse proxy and mitigate potential security threats.
 - **Outcome**: Delivered a highly automated and reliable infrastructure setup, enhancing security and performance for local-hosted services while reducing manual configuration efforts.
+
+### Automated Provisioning with Proxmox, Terraform, and Ansible
+
+- **Objective**: Streamlined the provisioning and configuration of LXC and VM instances on Proxmox to enhance infrastructure management.
+- **Technologies Used**:
+  - **Provisioning**: Employed Terraform to automate the provisioning of LXC containers and VM instances on Proxmox.
+  - **Configuration Management**: Utilized Ansible to configure and manage the instances post-provisioning, ensuring consistent setup and operational efficiency.
+- **Outcome**: Achieved a more efficient and automated infrastructure setup, reducing manual intervention and improving consistency in instance configuration.
