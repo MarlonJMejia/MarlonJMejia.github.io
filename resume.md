@@ -106,7 +106,7 @@ AWS CodePipeline, Github Actions, Jenkins
   - **Automation**: Implemented CI/CD pipelines using CodePipeline and GitHub Actions to automate the deployment and testing processes, ensuring seamless updates and multi-format document generation.
 - **Outcome**: Achieved a streamlined and automated workflow for static website deployment and maintenance, resulting in increased efficiency and reduced manual intervention.
 
-### Cloud Infrastructure and Automation with Oracle Cloud
+### Reverse Proxy Setup on Oracle Cloud for Local Service Access via Wireguard
 
 - **Objective**: Designed and automated the deployment of secure and scalable cloud infrastructure on Oracle Cloud.
 - **Technologies Used**:
@@ -114,4 +114,5 @@ AWS CodePipeline, Github Actions, Jenkins
   - **Infrastructure as Code**: Employed Terraform to provision and manage cloud resources on Oracle Cloud.
   - **Configuration Management**: Leveraged Ansible to automate the installation and configuration of Wireguard VPN and NGINX on the provisioned infrastructure.
   - **Reverse Proxy**: Configured the provisioned infrastructure to securely route traffic to a Grafana local endpoint and a local website hosted behind a Wireguard connection between an OPNsense firewall and the OCI instance.
+  - **Security**: Installed CrowdSec on OPNsense to enhance protection for the reverse proxy and mitigate potential security threats.
 - **Outcome**: Delivered a highly automated and reliable infrastructure setup, enhancing security and performance for local-hosted services while reducing manual configuration efforts.
