@@ -93,7 +93,7 @@
   - **Automation**: Implemented CI/CD pipelines using CodePipeline and GitHub Actions to automate the deployment and testing processes, ensuring seamless updates and multi-format document generation.
 - **Outcome**: Achieved a streamlined and automated workflow for static website deployment and maintenance, resulting in increased efficiency and reduced manual intervention.
 
-### Cloud Proxy Server ([Flowchart](https://github.com/MarlonJMejia/MarlonJMejia.github.io/blob/main/Reverse_Proxy_mermaid.md))
+### Cloud Proxy Server ([Diagram](https://github.com/MarlonJMejia/MarlonJMejia.github.io/blob/main/Reverse_Proxy_mermaid.md))
 
 - **Objective**: Designed and automated the deployment of secure, scalable cloud infrastructure on Oracle Cloud to expose local resources.
 - **Technologies Used**:
