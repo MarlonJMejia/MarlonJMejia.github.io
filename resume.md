@@ -18,21 +18,20 @@
 
 ::: Skills
 
-# Skills
+## Skills
 
-**Tools**: Terraform, Ansible, Docker, Jenkins,<br>AWS CodePipeline, Active Directory, Github Actions
-
-**Operating Systems**: Linux, Windows
-
-**Programming**: Bash, Python, Powershell
-
-**Software**: Jira, Grafana, Splunk, Humio
+- **Tools**: Terraform, Ansible, Docker, Jenkins, AWS CodePipeline, Active Directory, Github Actions
+- **Operating Systems**: Linux, Windows
+- **Programming**: Bash, Python, Powershell
+- **Software**: Jira, Grafana, Splunk, Humio
 
 :::
 
+---
+
 ::: certifications
 
-# Certifications
+## Certifications
 
 - [RHCSA](https://rhtapps.redhat.com/verify?certId=220-057-368) - Apr 08, 2022
 - [EX200 Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=220-057-368) - Apr 08, 2022
