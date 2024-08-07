@@ -7,5 +7,5 @@ pandoc -s --css=styling.css --metadata pagetitle="Marlon Mejia" -V lang=en -V hi
 * Create all
 
 ```bash
-for i in html pdf docs; do  echo "resume.${i}" && pandoc -s --css=styling.css --metadata pagetitle="Marlon Mejia" -V lang=en -V highlighting-css= --mathjax -f markdown+smart resume.md -o "resume.${i}"; done
+for i in html pdf docx; do  echo "resume.${i}" && pandoc -s --css=styling.css --metadata pagetitle="Marlon Mejia" -V lang=en -V highlighting-css= --mathjax -f markdown+smart resume.md -o "resume.${i}"; done
 ```
