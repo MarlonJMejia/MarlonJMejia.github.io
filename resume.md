@@ -35,7 +35,6 @@
 
 ## Certifications
 
-- [RHCSA](https://rhtapps.redhat.com/verify?certId=220-057-368) - Apr 08, 2022
 - [EX200 Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=220-057-368) - Apr 08, 2022
 - [AWS SAA-C03](https://www.credly.com/badges/838a30cd-0701-4069-b4be-68fe22d6962a) - March 31, 2023
 - [Comptia Security+](https://www.credly.com/badges/136d58c4-24d3-4487-aad5-c51e120a3e7f) - November 02, 2020
