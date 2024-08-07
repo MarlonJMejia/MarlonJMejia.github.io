@@ -51,7 +51,7 @@
 # Bloomberg LP
 
 **Datacenter Operations Engineer**  
-*Nov 2020 - Present* - *Fulltime*
+*Nov 2020 - July 2024* - *Fulltime*
 
 - **Data Center Operations**:
   - Rack and Stack: Installed and configured servers and network equipment.
