@@ -20,10 +20,11 @@
 
 ## Skills
 
-- **Tools**: Terraform, Ansible, Docker, Jenkins, AWS CodePipeline, Active Directory, Github Actions
-- **Operating Systems**: Linux, Windows
+- **Tools**: Terraform, Ansible, Docker, Active Directory
+- **CI/CD**: Jenkins, Github Actions, AWS CodePipeline
+- **Operating Systems**: Linux (RedHat, Debian), Windows, Unix
 - **Programming**: Bash, Python, Powershell
-- **Software**: Jira, Grafana, Splunk, Humio
+- **Monitoring**: Grafana, Splunk, Humio, Prometheus, Influxdb
 
 :::
 
@@ -48,7 +49,7 @@
 
 # Bloomberg LP 
 **Datacenter Operations Engineer**  
-*Nov 2020 - Present* 45HRS per Week
+*Nov 2020 - Present* *Fulltime*
 
 - **Data Center Operations**:
   - Rack and Stack: Installed and configured servers and network equipment.
@@ -69,7 +70,7 @@
 
 # NYI - New York Internet
 **Datacenter Technician**  
-*Jul 2020 - Nov 2020* 45HRS per Week
+*Jul 2020 - Nov 2020* *Fulltime*
 
 - **Customer Support**: Provided remote technical support, including device configuration, troubleshooting, and optimization.
 - **Network Monitoring**: Monitored over 1000 devices using **LogicMonitor, ConnectWise, and Meraki**. resolved outages and network issues.
