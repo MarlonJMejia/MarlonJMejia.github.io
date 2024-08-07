@@ -43,13 +43,15 @@
 
 :::
 </aside>
+
 ---
 
 <main>
 
-# Bloomberg LP 
+# Bloomberg LP
+
 **Datacenter Operations Engineer**  
-*Nov 2020 - Present* *Fulltime*
+*Nov 2020 - Present* - *Fulltime*
 
 - **Data Center Operations**:
   - Rack and Stack: Installed and configured servers and network equipment.
@@ -69,8 +71,9 @@
 - **System Maintenance and Upgrades**: Perform routine maintenance, hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
 
 # NYI - New York Internet
+
 **Datacenter Technician**  
-*Jul 2020 - Nov 2020* *Fulltime*
+*Jul 2020 - Nov 2020* - *Fulltime*
 
 - **Customer Support**: Provided remote technical support, including device configuration, troubleshooting, and optimization.
 - **Network Monitoring**: Monitored over 1000 devices using **LogicMonitor, ConnectWise, and Meraki**. resolved outages and network issues.
