@@ -46,7 +46,7 @@
 
 <main>
 
-## Bloomberg LP 
+# Bloomberg LP 
 **Datacenter Operations Engineer**  
 *Nov 2020 - Present* 45HRS per Week
 
@@ -67,7 +67,7 @@
 - **Data Center Optimization**: Execute regular audits of data center operations, identifying improvement opportunities and implementing strategies to enhance performance and reduce costs.
 - **System Maintenance and Upgrades**: Perform routine maintenance, hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
 
-## NYI - New York Internet
+# NYI - New York Internet
 **Datacenter Technician**  
 *Jul 2020 - Nov 2020* 45HRS per Week
 
@@ -82,7 +82,7 @@
 
 ----
 
-# Side Projects
+# Projects
 
 ### CI/CD Project for AWS and GitHub Pages
 
