@@ -20,7 +20,8 @@
 
 ## Skills
 
-- **Tools**: Terraform, Ansible, Docker, Active Directory
+- **Tools**: Docker, Active Directory
+- **Automation**: Terraform, Ansible
 - **CI/CD**: Jenkins, Github Actions, AWS CodePipeline
 - **Operating Systems**: Linux (RedHat, Debian), Windows, Unix
 - **Programming**: Bash, Python, Powershell
