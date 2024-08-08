@@ -64,7 +64,7 @@
   - Resolve issues across operating systems, including Windows and Linux (Red Hat, Debian) to ensure consistent and reliable functionality.
 - **Automation**:
   - Led a project to automate case opening and log gathering across multiple systems by utilizing **REST APIs** and **Python**.
-  - Reduced operation time from over 20 minutes to just 30 seconds per task, saving approximately 1690 hours annually.
+  - Reduced operation time by over ***98%***, from more than ***20 minutes to just 30 seconds*** per task.
 - **Legacy Modernization**: Contribute to the overhaul of outdated programs and documentation with **Python**, **Bash**, **Git**.
 - **Containerization**: Develop over 50 **Dockerfiles** to containerize and facilitate consistent deployment and testing of **Python** and **Bash** .
 - **Incident Management**: Utilize **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution.
