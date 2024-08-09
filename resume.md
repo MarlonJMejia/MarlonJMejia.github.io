@@ -108,7 +108,7 @@
   - **Configuration Management**: Utilized Ansible to automate the setup and configuration of Wireguard VPN and NGINX on the provisioned infrastructure.
   - **Reverse Proxy**: Implemented a reverse proxy to securely route traffic to a Grafana local endpoint and a local website through a Wireguard connection between an OPNsense firewall and the OCI instance.
   - **Security**: Deployed CrowdSec on OPNsense to protect the reverse proxy, enhancing security and notifiying of any threats via webhooks.
-- **Outcome**: Established a robust, automated infrastructure that securely exposed local resources while enhancing performance and security. The solution reduced manual configuration efforts and improved the overall reliability and protection of the hosted services.
+- **Outcome**: Established a robust, automated infrastructure that securely exposed local resources while enhancing performance and security.
 
 ### Automated Provisioning with Proxmox, Terraform, and Ansible
 
