@@ -21,7 +21,7 @@
 
 ## Skills
 
-- **Tools**: Docker, Active Directory, tmux
+- **Tools**: Docker, Active Directory, tmux, crowdsec
 - **Infrastructure-as-Code**: Terraform, Ansible
 - **CI/CD**: Jenkins, Github Actions, AWS CodePipeline
 - **Operating Systems**: Linux (RedHat, Debian), Windows, Unix
@@ -107,7 +107,7 @@
   - **Infrastructure as Code**: Automated the provisioning and management of cloud resources on Oracle Cloud with Terraform.
   - **Configuration Management**: Utilized Ansible to automate the setup and configuration of Wireguard VPN and NGINX on the provisioned infrastructure.
   - **Reverse Proxy**: Implemented a reverse proxy to securely route traffic to a Grafana local endpoint and a local website through a Wireguard connection between an OPNsense firewall and the OCI instance.
-  - **Security**: Deployed CrowdSec on OPNsense to protect the reverse proxy, enhancing security and mitigating potential threats.
+  - **Security**: Deployed CrowdSec on OPNsense to protect the reverse proxy, enhancing security and notifying me of any threats.
 - **Outcome**: Established a robust, automated infrastructure that securely exposed local resources while enhancing performance and security. The solution reduced manual configuration efforts and improved the overall reliability and protection of the hosted services.
 
 ### Automated Provisioning with Proxmox, Terraform, and Ansible
