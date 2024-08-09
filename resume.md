@@ -70,7 +70,6 @@
 - **Incident Management**: Utilize **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution.
 - **Monitoring and Analysis**: Servers and Network Devices across datacenters, tracking disruptions, resource utilization, and power consumption using **Grafana**, **Splunk**, and **Humio**.
 - **Cross-Team Collaboration**: Collaborate across multiple technical teams to deliver Agile-based projects, ensuring seamless communication and coordination across multiple Datacenter sites.
-- **Data Center Optimization**: Execute regular audits of data center operations, identifying improvement opportunities and implementing strategies to enhance performance and reduce costs.
 - **System Maintenance and Upgrades**: Perform routine maintenance, hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
 
 # NYI - New York Internet
