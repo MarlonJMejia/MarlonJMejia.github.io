@@ -333,6 +333,8 @@ ol {
 }
 ul {
   list-style:circle
+  margin-top: 6px;
+  margin-bottom: 9px;
 }
 ol {
   list-style:decimal
