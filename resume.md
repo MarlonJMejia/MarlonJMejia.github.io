@@ -28,7 +28,7 @@
 - **Programming**: Bash, Python, Powershell
 - **Monitoring**: Grafana, Splunk, Humio, Prometheus, Influxdb
 - **Databases**: MariaDB, MySQL, NoSQL
-- **Cloud**: AWS, ECS, EC2, VPC, IAM
+- **Cloud**: AWS, ECS, EC2, VPC, IAM, cloud-init
 
 :::
 
@@ -53,7 +53,7 @@
 
 # Bloomberg LP
 
-**Datacenter Operations Engineer**  
+**Datacenter Operations Engineer**
 *Nov 2020 - July 2024* - *Fulltime*
 
 - **Data Center Operations**:
