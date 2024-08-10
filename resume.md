@@ -51,7 +51,7 @@
 
 <main>
 
-# Bloomberg LP
+## Bloomberg LP
 
 **Datacenter Operations Engineer**
 *Nov 2020 - July 2024* - *Fulltime*
@@ -72,7 +72,7 @@
 - **Cross-Team Collaboration**: Collaborate across multiple technical teams to deliver Agile-based projects, ensuring seamless communication and coordination across multiple Datacenter sites.
 - **System Maintenance and Upgrades**: Perform routine maintenance, hardware upgrades, firmware updates, and patch management, to ensure peak system performance.
 
-# NYI - New York Internet
+## NYI - New York Internet
 
 **Datacenter Technician**  
 *Jul 2020 - Nov 2020* - *Fulltime*
