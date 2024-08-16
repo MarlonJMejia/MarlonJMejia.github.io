@@ -21,7 +21,7 @@
 
 ## Skills
 
-- **Tools**: Docker, Active Directory, tmux, crowdsec
+- **Tools**: Docker, Active Directory
 - **Infrastructure-as-Code**: Terraform, Ansible
 - **CI/CD**: Jenkins, Github Actions, AWS CodePipeline
 - **Operating Systems**: Linux (RedHat, Debian), Windows, Unix
@@ -66,7 +66,7 @@
   - Led a project to automate case opening and log gathering across multiple systems by utilizing **REST APIs** and **Python**.
   - Reduced operation time by over ***98%***, from more than ***20 minutes to just 30 seconds*** per task.
 - **Legacy Modernization**: Contribute to the overhaul of outdated programs and documentation with **Python**, **Bash**, **Git**.
-- **Containerization**: Develop over 50 **Dockerfiles** to containerize and facilitate consistent deployment and testing of **Python** and **Bash** .
+- **Containerization**: Develop **Dockerfiles** to containerize and facilitate consistent deployment and testing of **Python** and **Bash** .
 - **Incident Management**: Utilize **Jira** to plan, track, support tickets, and manage incidents, ensuring efficient resolution.
 - **Monitoring and Analysis**: Servers and Network Devices across datacenters, tracking disruptions, resource utilization, and power consumption using **Grafana**, **Splunk**, and **Humio**.
 - **Cross-Team Collaboration**: Collaborate across multiple technical teams to deliver Agile-based projects, ensuring seamless communication and coordination across multiple Datacenter sites.
@@ -117,3 +117,8 @@
   - **Configuration Management**: Applied Ansible for post-provisioning configuration and management, ensuring uniform setup and operational consistency.
   - **Backups**: Set up automated backups using **Kopia**, with infrastructure code securely stored in GitHub for version control and disaster recovery.
 - **Outcome**: Achieved a highly automated and efficient infrastructure management process, significantly reducing manual intervention, enhancing configuration consistency, and ensuring reliable backup and recovery.
+
+### STIG Compliance Configuration for Rocky Linux 9
+- **Objective**: Ensure Rocky Linux 9 adheres to [DISA STIG Guidelines for RHEL 9](https://www.stigviewer.com/stig/red_hat_enterprise_linux_9/), enhancing system security and compliance.
+- **Tools Used**: STIG Viewer, OpenSCAP
+- **Outcome**: Successfully configured a government-compliant, highly secure operating system.
