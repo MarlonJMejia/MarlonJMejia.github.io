@@ -121,7 +121,7 @@
 ### STIG Compliance Configuration for Rocky Linux 9
 
 - **Objective**: Ensure Rocky Linux 9 adheres to [DISA STIG Guidelines for RHEL 9](https://www.stigviewer.com/stig/red_hat_enterprise_linux_9/), enhancing system security and compliance.
-- **Tools Used**: STIG Viewer, OpenSCAP
+- **Tools Used**: STIG Viewer, OpenSCAP, oscap, cscc
 - **Outcome**: Successfully configured a government-compliant, highly secure operating system.
 
 ### Killercoda Labs
