@@ -126,4 +126,5 @@
 
 ### Killercoda Labs
 
-- **Objective**: Create edutational hands on labds with the assistance of a virtualization environment to help up and coming tech talent.
+- **Objective**: Leveraged to create a sandbox environemtn to guide users through step-by-step setups of specific technologies, serving as an interactive learning platform.
+- **Outcome**: Created educational hands-on labs leveraging virtualization to support and train emerging tech talent.
