@@ -16,7 +16,6 @@
 </header>
 
 <main>
-
 ## Bloomberg LP
 
 **Datacenter Operations Engineer**
@@ -51,6 +50,7 @@
 - **Documentation**: Documented server setups and task methodologies for efficient handovers.
 
 </main>
+
 
 ---
 
