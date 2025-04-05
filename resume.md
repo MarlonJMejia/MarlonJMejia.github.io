@@ -15,9 +15,6 @@
 
 </header>
 
-
----
-
 <main>
 
 ## Bloomberg LP
@@ -54,6 +51,8 @@
 - **Documentation**: Documented server setups and task methodologies for efficient handovers.
 
 </main>
+
+---
 
 <aside>
 
