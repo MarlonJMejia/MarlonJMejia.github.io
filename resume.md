@@ -15,37 +15,6 @@
 
 </header>
 
-<aside>
-
-::: Skills
-
-## Skills
-
-- **Tools**: Docker, Active Directory
-- **Infrastructure-as-Code**: Terraform, Ansible
-- **CI/CD**: Jenkins, Github Actions, AWS CodePipeline
-- **Operating Systems**: Linux (RedHat, Debian), Windows, Unix
-- **Programming**: Bash, Python, Powershell
-- **Monitoring**: Grafana, Splunk, Humio, Prometheus, Influxdb
-- **Databases**: MariaDB, MySQL, NoSQL
-- **Cloud**: AWS, ECS, EC2, VPC, IAM, cloud-init
-
-:::
-
----
-
-::: certifications
-
-## Certifications
-
-- [EX200 Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=220-057-368) - Apr 08, 2022
-- [AWS SAA-C03](https://www.credly.com/badges/838a30cd-0701-4069-b4be-68fe22d6962a) - March 31, 2023
-- [Comptia Security+](https://www.credly.com/badges/136d58c4-24d3-4487-aad5-c51e120a3e7f) - November 02, 2020
-- API Security Architect - Jan 20 2024
-- [Comptia A+](https://www.credly.com/badges/89fca521-f3de-4c36-90f5-7552f9c4c26e) - May 22, 2020
-
-:::
-</aside>
 
 ---
 
@@ -85,6 +54,38 @@
 - **Documentation**: Documented server setups and task methodologies for efficient handovers.
 
 </main>
+
+<aside>
+
+::: Skills
+
+## Skills
+
+- **Tools**: Docker, Active Directory
+- **Infrastructure-as-Code**: Terraform, Ansible
+- **CI/CD**: Jenkins, Github Actions, AWS CodePipeline
+- **Operating Systems**: Linux (RedHat, Debian), Windows, Unix
+- **Programming**: Bash, Python, Powershell
+- **Monitoring**: Grafana, Splunk, Humio, Prometheus, Influxdb
+- **Databases**: MariaDB, MySQL, NoSQL
+- **Cloud**: AWS, ECS, EC2, VPC, IAM, cloud-init
+
+:::
+
+---
+
+::: certifications
+
+## Certifications
+
+- [EX200 Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=220-057-368) - Apr 08, 2022
+- [AWS SAA-C03](https://www.credly.com/badges/838a30cd-0701-4069-b4be-68fe22d6962a) - March 31, 2023
+- [Comptia Security+](https://www.credly.com/badges/136d58c4-24d3-4487-aad5-c51e120a3e7f) - November 02, 2020
+- API Security Architect - Jan 20 2024
+- [Comptia A+](https://www.credly.com/badges/89fca521-f3de-4c36-90f5-7552f9c4c26e) - May 22, 2020
+
+:::
+</aside>
 
 ----
 
