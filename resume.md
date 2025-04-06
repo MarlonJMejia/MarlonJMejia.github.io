@@ -42,7 +42,7 @@
 **Datacenter Technician**  
 *Jul 2020 - Nov 2020* - *Fulltime*
 
-- **Customer Support**: Provided remote technical support, including device configuration, troubleshooting, and optimization.
+- **Customer Support**: Provided remote technical support, including device configuration,troubleshooting, and optimization.
 - **Network Monitoring**: Monitored over 1000 devices using **LogicMonitor, ConnectWise, and Meraki**. resolved outages and network issues.
 - **Automation**: Automated Google Drive tasks with **Python** scripts using Drive **API**.
 - **Hardware Management**: Installed and organized hardware, performed cabling and tested with Fluke equipment.
