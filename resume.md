@@ -68,7 +68,7 @@
 - **Monitoring**: Grafana, Splunk, Humio, Prometheus, Influxdb
 - **Databases**: MariaDB, MySQL, NoSQL
 - **Cloud**: AWS, ECS, EC2, VPC, IAM, cloud-init
-- **Networking**: BGP, TCP, Cisco, Arista, Juniper
+- **Networking**: IP, TCP, BGP, Server Load Balancers, Firewalls, ACLs, DNS, DHCP, IPAM, LDAP, NFS
 
 :::
 
