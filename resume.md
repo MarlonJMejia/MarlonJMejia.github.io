@@ -60,14 +60,15 @@
 
 ## Skills
 
-- **Tools**: Docker, Active Directory
+- **Tools**: Docker, Active Directory, Excel, Command Line
 - **Infrastructure-as-Code**: Terraform, Ansible
 - **CI/CD**: Jenkins, Github Actions, AWS CodePipeline
-- **Operating Systems**: Linux (RedHat, Debian), Windows, Unix
+- **Operating Systems**: Linux (RedHat, Debian), Windows, Unix, iOS
 - **Programming**: Bash, Python, Powershell
 - **Monitoring**: Grafana, Splunk, Humio, Prometheus, Influxdb
 - **Databases**: MariaDB, MySQL, NoSQL
 - **Cloud**: AWS, ECS, EC2, VPC, IAM, cloud-init
+- **Networking**: BGP, TCP, Cisco, Arista, Juniper
 
 :::
 
