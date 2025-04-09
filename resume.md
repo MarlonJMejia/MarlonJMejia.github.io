@@ -60,15 +60,16 @@
 
 ## Skills
 
-- **Tools**: Docker, Active Directory, Excel, Command Line
+- **Tools**: Docker, Active Directory, Excel, Command Line, SSH, SFTP
 - **Infrastructure-as-Code**: Terraform, Ansible
 - **CI/CD**: Jenkins, Github Actions, AWS CodePipeline
-- **Operating Systems**: Linux (RedHat, Debian), Windows, Unix, iOS
+- **Operating Systems**: Linux (RedHat, Debian, Ubuntu), Windows, Unix, iOS
 - **Programming**: Bash, Python, Powershell
 - **Monitoring**: Grafana, Splunk, Humio, Prometheus, Influxdb
 - **Databases**: MariaDB, MySQL, NoSQL
 - **Cloud**: AWS, ECS, EC2, VPC, IAM, cloud-init
-- **Networking**: IP, TCP, BGP, Server Load Balancers, Firewalls, ACLs, DNS, DHCP, IPAM, LDAP, NFS
+- **Ticketing System**: Jira, ServiceNow, Teams, Slack
+- **Networking**: IP, TCP, VLAN BGP, Server Load Balancers, Firewalls, ACL, DNS, NAT, DHCP, IPAM, LDAP, NFS, OPNSense, PfSense, Firewall, Load Balancer
 
 :::
 
