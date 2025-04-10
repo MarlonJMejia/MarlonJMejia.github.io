@@ -16,10 +16,11 @@
 </header>
 
 <main>
+
 ## Bloomberg LP
 
 **Datacenter Operations Engineer**
-*Nov 2020 - July 2024* - *Fulltime*
+*Nov 2020 - Feb 2025* - *Fulltime*
 
 - **Data Center Operations**:
   - Rack and Stack: Installed and configured servers and network equipment.
@@ -39,7 +40,7 @@
 
 ## NYI - New York Internet
 
-**Datacenter Technician**  
+**Datacenter Technician**
 *Jul 2020 - Nov 2020* - *Fulltime*
 
 - **Customer Support**: Provided remote technical support, including device configuration,troubleshooting, and optimization.
@@ -50,7 +51,6 @@
 - **Documentation**: Documented server setups and task methodologies for efficient handovers.
 
 </main>
-
 
 ---
 
